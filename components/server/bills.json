@@ -1,0 +1,6955 @@
+{
+  "bill": [
+    {
+      "id": 5,
+      "vevo": "Jabberbean",
+      "kibocsajto": "Realblab",
+      "nOsszeg": 14532,
+      "fizHatDatum": "2020-06-07"
+    },
+    {
+      "id": 6,
+      "vevo": "Youbridge",
+      "kibocsajto": "Ailane",
+      "nOsszeg": 206032,
+      "fizHatDatum": "2019-10-29"
+    },
+    {
+      "id": 7,
+      "vevo": "Vinte",
+      "kibocsajto": "Abata",
+      "nOsszeg": 116623,
+      "fizHatDatum": "2019-12-03"
+    },
+    {
+      "id": 8,
+      "vevo": "Wikibox",
+      "kibocsajto": "Yozio",
+      "nOsszeg": 34702,
+      "fizHatDatum": "2020-03-04"
+    },
+    {
+      "id": 9,
+      "vevo": "Quaxo",
+      "kibocsajto": "Feedfire",
+      "nOsszeg": 245871,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 11,
+      "vevo": "Flashspan",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 81780,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 12,
+      "vevo": "Mudo",
+      "kibocsajto": "Skyba",
+      "nOsszeg": 191423,
+      "fizHatDatum": "2019-10-10"
+    },
+    {
+      "id": 13,
+      "vevo": "Trudoo",
+      "kibocsajto": "Dabvine",
+      "nOsszeg": 10152,
+      "fizHatDatum": "2019-12-14"
+    },
+    {
+      "id": 15,
+      "vevo": "Yodo",
+      "kibocsajto": "Zoombeat",
+      "nOsszeg": 141558,
+      "fizHatDatum": "2020-02-15"
+    },
+    {
+      "id": 17,
+      "vevo": "Brainlounge",
+      "kibocsajto": "Thoughtworks",
+      "nOsszeg": 223024,
+      "fizHatDatum": "2020-05-17"
+    },
+    {
+      "id": 18,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Midel",
+      "nOsszeg": 178661,
+      "fizHatDatum": "2020-04-18"
+    },
+    {
+      "id": 19,
+      "vevo": "Innotype",
+      "kibocsajto": "Youopia",
+      "nOsszeg": 95864,
+      "fizHatDatum": "2020-05-01"
+    },
+    {
+      "id": 20,
+      "vevo": "Oyonder",
+      "kibocsajto": "Eare",
+      "nOsszeg": 38634,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 21,
+      "vevo": "Browsezoom",
+      "kibocsajto": "Gabtype",
+      "nOsszeg": 202486,
+      "fizHatDatum": "2020-01-25"
+    },
+    {
+      "id": 22,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Jetpulse",
+      "nOsszeg": 108755,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 23,
+      "vevo": "Wordtune",
+      "kibocsajto": "Layo",
+      "nOsszeg": 120436,
+      "fizHatDatum": "2019-10-20"
+    },
+    {
+      "id": 24,
+      "vevo": "Zoomzone",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 51748,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 25,
+      "vevo": "Eimbee",
+      "kibocsajto": "Skalith",
+      "nOsszeg": 76859,
+      "fizHatDatum": "2019-11-24"
+    },
+    {
+      "id": 26,
+      "vevo": "Rhyloo",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 161785,
+      "fizHatDatum": "2020-03-17"
+    },
+    {
+      "id": 27,
+      "vevo": "Bubblebox",
+      "kibocsajto": "Digitube",
+      "nOsszeg": 33341,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 28,
+      "vevo": "Flashpoint",
+      "kibocsajto": "Roombo",
+      "nOsszeg": 105725,
+      "fizHatDatum": "2019-09-28"
+    },
+    {
+      "id": 29,
+      "vevo": "Lazzy",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 17581,
+      "fizHatDatum": "2020-07-23"
+    },
+    {
+      "id": 30,
+      "vevo": "Dynabox",
+      "kibocsajto": "Jabbertype",
+      "nOsszeg": 212673,
+      "fizHatDatum": "2019-10-01"
+    },
+    {
+      "id": 31,
+      "vevo": "Zoozzy",
+      "kibocsajto": "Voomm",
+      "nOsszeg": 230432,
+      "fizHatDatum": "2019-11-25"
+    },
+    {
+      "id": 32,
+      "vevo": "Plajo",
+      "kibocsajto": "Kare",
+      "nOsszeg": 239442,
+      "fizHatDatum": "2020-04-22"
+    },
+    {
+      "id": 33,
+      "vevo": "Thoughtbridge",
+      "kibocsajto": "Mybuzz",
+      "nOsszeg": 135489,
+      "fizHatDatum": "2019-12-27"
+    },
+    {
+      "id": 34,
+      "vevo": "Gevee",
+      "kibocsajto": "Babbleblab",
+      "nOsszeg": 100730,
+      "fizHatDatum": "2020-02-03"
+    },
+    {
+      "id": 35,
+      "vevo": "Avamba",
+      "kibocsajto": "Eazzy",
+      "nOsszeg": 24691,
+      "fizHatDatum": "2019-12-30"
+    },
+    {
+      "id": 36,
+      "vevo": "Leenti",
+      "kibocsajto": "Flipbug",
+      "nOsszeg": 223568,
+      "fizHatDatum": "2019-09-12"
+    },
+    {
+      "id": 37,
+      "vevo": "Reallinks",
+      "kibocsajto": "Yabox",
+      "nOsszeg": 87981,
+      "fizHatDatum": "2020-07-19"
+    },
+    {
+      "id": 38,
+      "vevo": "Topicstorm",
+      "kibocsajto": "Janyx",
+      "nOsszeg": 165382,
+      "fizHatDatum": "2020-05-14"
+    },
+    {
+      "id": 39,
+      "vevo": "Browseblab",
+      "kibocsajto": "Meedoo",
+      "nOsszeg": 94446,
+      "fizHatDatum": "2019-12-18"
+    },
+    {
+      "id": 40,
+      "vevo": "Tagfeed",
+      "kibocsajto": "Kazio",
+      "nOsszeg": 163682,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 41,
+      "vevo": "Cogibox",
+      "kibocsajto": "Miboo",
+      "nOsszeg": 59856,
+      "fizHatDatum": "2020-06-14"
+    },
+    {
+      "id": 42,
+      "vevo": "Avaveo",
+      "kibocsajto": "Mydeo",
+      "nOsszeg": 196141,
+      "fizHatDatum": "2019-10-10"
+    },
+    {
+      "id": 43,
+      "vevo": "Pixonyx",
+      "kibocsajto": "Edgeclub",
+      "nOsszeg": 78774,
+      "fizHatDatum": "2019-09-06"
+    },
+    {
+      "id": 44,
+      "vevo": "Skyvu",
+      "kibocsajto": "Skivee",
+      "nOsszeg": 211073,
+      "fizHatDatum": "2019-07-05"
+    },
+    {
+      "id": 45,
+      "vevo": "Riffpath",
+      "kibocsajto": "Riffpedia",
+      "nOsszeg": 84418,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 46,
+      "vevo": "Meevee",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 82578,
+      "fizHatDatum": "2019-12-02"
+    },
+    {
+      "id": 47,
+      "vevo": "Devcast",
+      "kibocsajto": "Yadel",
+      "nOsszeg": 89961,
+      "fizHatDatum": "2019-07-02"
+    },
+    {
+      "id": 48,
+      "vevo": "Twitterlist",
+      "kibocsajto": "Dablist",
+      "nOsszeg": 95277,
+      "fizHatDatum": "2020-02-02"
+    },
+    {
+      "id": 49,
+      "vevo": "Skidoo",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 197058,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 50,
+      "vevo": "Skibox",
+      "kibocsajto": "Babbleopia",
+      "nOsszeg": 222703,
+      "fizHatDatum": "2020-06-28"
+    },
+    {
+      "id": 51,
+      "vevo": "Feedspan",
+      "kibocsajto": "Roodel",
+      "nOsszeg": 92700,
+      "fizHatDatum": "2019-08-27"
+    },
+    {
+      "id": 52,
+      "vevo": "Jaxnation",
+      "kibocsajto": "Zooveo",
+      "nOsszeg": 152631,
+      "fizHatDatum": "2020-05-06"
+    },
+    {
+      "id": 53,
+      "vevo": "Cogibox",
+      "kibocsajto": "Yodoo",
+      "nOsszeg": 39222,
+      "fizHatDatum": "2019-08-09"
+    },
+    {
+      "id": 54,
+      "vevo": "Jaxnation",
+      "kibocsajto": "Izio",
+      "nOsszeg": 137548,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 55,
+      "vevo": "Realbridge",
+      "kibocsajto": "Cogibox",
+      "nOsszeg": 242810,
+      "fizHatDatum": "2020-06-07"
+    },
+    {
+      "id": 56,
+      "vevo": "Brainlounge",
+      "kibocsajto": "Aimbu",
+      "nOsszeg": 56330,
+      "fizHatDatum": "2020-01-18"
+    },
+    {
+      "id": 57,
+      "vevo": "Riffwire",
+      "kibocsajto": "Kare",
+      "nOsszeg": 23535,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 58,
+      "vevo": "Dabshots",
+      "kibocsajto": "Voonyx",
+      "nOsszeg": 217711,
+      "fizHatDatum": "2020-07-16"
+    },
+    {
+      "id": 59,
+      "vevo": "Nlounge",
+      "kibocsajto": "Ooba",
+      "nOsszeg": 35847,
+      "fizHatDatum": "2019-07-19"
+    },
+    {
+      "id": 60,
+      "vevo": "Skyvu",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 56156,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 61,
+      "vevo": "Bubbletube",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 196936,
+      "fizHatDatum": "2020-01-13"
+    },
+    {
+      "id": 62,
+      "vevo": "Izio",
+      "kibocsajto": "Blogtag",
+      "nOsszeg": 166027,
+      "fizHatDatum": "2020-03-31"
+    },
+    {
+      "id": 63,
+      "vevo": "Thoughtbeat",
+      "kibocsajto": "Dynava",
+      "nOsszeg": 195684,
+      "fizHatDatum": "2020-01-03"
+    },
+    {
+      "id": 64,
+      "vevo": "Aimbu",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 70712,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 65,
+      "vevo": "Dynabox",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 28369,
+      "fizHatDatum": "2019-12-30"
+    },
+    {
+      "id": 66,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Pixoboo",
+      "nOsszeg": 61517,
+      "fizHatDatum": "2020-01-19"
+    },
+    {
+      "id": 67,
+      "vevo": "Meezzy",
+      "kibocsajto": "Jaxspan",
+      "nOsszeg": 70997,
+      "fizHatDatum": "2019-11-08"
+    },
+    {
+      "id": 68,
+      "vevo": "Wikido",
+      "kibocsajto": "Skajo",
+      "nOsszeg": 33159,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 69,
+      "vevo": "Centizu",
+      "kibocsajto": "Rhyzio",
+      "nOsszeg": 216950,
+      "fizHatDatum": "2020-06-05"
+    },
+    {
+      "id": 70,
+      "vevo": "Dabvine",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 175523,
+      "fizHatDatum": "2020-05-28"
+    },
+    {
+      "id": 71,
+      "vevo": "Livepath",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 152105,
+      "fizHatDatum": "2020-01-27"
+    },
+    {
+      "id": 72,
+      "vevo": "Photobug",
+      "kibocsajto": "Mycat",
+      "nOsszeg": 115237,
+      "fizHatDatum": "2020-05-06"
+    },
+    {
+      "id": 73,
+      "vevo": "Oyoyo",
+      "kibocsajto": "Jaxworks",
+      "nOsszeg": 50078,
+      "fizHatDatum": "2020-03-08"
+    },
+    {
+      "id": 74,
+      "vevo": "Kazu",
+      "kibocsajto": "Twitternation",
+      "nOsszeg": 62478,
+      "fizHatDatum": "2019-11-03"
+    },
+    {
+      "id": 75,
+      "vevo": "Tagpad",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 182912,
+      "fizHatDatum": "2020-04-20"
+    },
+    {
+      "id": 76,
+      "vevo": "Tagtune",
+      "kibocsajto": "Skajo",
+      "nOsszeg": 50355,
+      "fizHatDatum": "2019-11-04"
+    },
+    {
+      "id": 77,
+      "vevo": "Browseblab",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 162448,
+      "fizHatDatum": "2020-05-27"
+    },
+    {
+      "id": 78,
+      "vevo": "Photobug",
+      "kibocsajto": "Dynabox",
+      "nOsszeg": 26682,
+      "fizHatDatum": "2019-10-25"
+    },
+    {
+      "id": 79,
+      "vevo": "Flipstorm",
+      "kibocsajto": "Linkbridge",
+      "nOsszeg": 82919,
+      "fizHatDatum": "2020-06-04"
+    },
+    {
+      "id": 80,
+      "vevo": "Brightdog",
+      "kibocsajto": "Blognation",
+      "nOsszeg": 233116,
+      "fizHatDatum": "2020-02-27"
+    },
+    {
+      "id": 81,
+      "vevo": "Devpulse",
+      "kibocsajto": "Meevee",
+      "nOsszeg": 24379,
+      "fizHatDatum": "2019-09-09"
+    },
+    {
+      "id": 82,
+      "vevo": "Dabtype",
+      "kibocsajto": "Aibox",
+      "nOsszeg": 63901,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 83,
+      "vevo": "Zoomzone",
+      "kibocsajto": "Eire",
+      "nOsszeg": 76017,
+      "fizHatDatum": "2020-06-10"
+    },
+    {
+      "id": 84,
+      "vevo": "Skipstorm",
+      "kibocsajto": "Riffpedia",
+      "nOsszeg": 158907,
+      "fizHatDatum": "2019-08-02"
+    },
+    {
+      "id": 85,
+      "vevo": "Linkbuzz",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 191790,
+      "fizHatDatum": "2019-09-05"
+    },
+    {
+      "id": 86,
+      "vevo": "Tazzy",
+      "kibocsajto": "Eare",
+      "nOsszeg": 41249,
+      "fizHatDatum": "2020-07-27"
+    },
+    {
+      "id": 87,
+      "vevo": "Tagcat",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 213634,
+      "fizHatDatum": "2019-09-07"
+    },
+    {
+      "id": 88,
+      "vevo": "Feedfire",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 21047,
+      "fizHatDatum": "2020-05-03"
+    },
+    {
+      "id": 89,
+      "vevo": "Katz",
+      "kibocsajto": "Chatterpoint",
+      "nOsszeg": 242829,
+      "fizHatDatum": "2019-12-08"
+    },
+    {
+      "id": 90,
+      "vevo": "Photobug",
+      "kibocsajto": "Cogidoo",
+      "nOsszeg": 172305,
+      "fizHatDatum": "2019-06-30"
+    },
+    {
+      "id": 91,
+      "vevo": "Jetwire",
+      "kibocsajto": "Skaboo",
+      "nOsszeg": 123410,
+      "fizHatDatum": "2020-05-27"
+    },
+    {
+      "id": 92,
+      "vevo": "Eazzy",
+      "kibocsajto": "LiveZ",
+      "nOsszeg": 100282,
+      "fizHatDatum": "2020-03-11"
+    },
+    {
+      "id": 93,
+      "vevo": "Linkbuzz",
+      "kibocsajto": "Kwinu",
+      "nOsszeg": 102063,
+      "fizHatDatum": "2020-07-03"
+    },
+    {
+      "id": 94,
+      "vevo": "Wikibox",
+      "kibocsajto": "Thoughtworks",
+      "nOsszeg": 163154,
+      "fizHatDatum": "2020-07-06"
+    },
+    {
+      "id": 95,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Voonder",
+      "nOsszeg": 217461,
+      "fizHatDatum": "2020-03-19"
+    },
+    {
+      "id": 96,
+      "vevo": "Babbleopia",
+      "kibocsajto": "Eazzy",
+      "nOsszeg": 94168,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 97,
+      "vevo": "Yotz",
+      "kibocsajto": "Divanoodle",
+      "nOsszeg": 6701,
+      "fizHatDatum": "2020-03-07"
+    },
+    {
+      "id": 98,
+      "vevo": "Edgepulse",
+      "kibocsajto": "Camido",
+      "nOsszeg": 237729,
+      "fizHatDatum": "2020-04-20"
+    },
+    {
+      "id": 99,
+      "vevo": "Dabvine",
+      "kibocsajto": "Youopia",
+      "nOsszeg": 159922,
+      "fizHatDatum": "2019-11-28"
+    },
+    {
+      "id": 100,
+      "vevo": "Zooxo",
+      "kibocsajto": "Twitterwire",
+      "nOsszeg": 212697,
+      "fizHatDatum": "2019-12-03"
+    },
+    {
+      "id": 101,
+      "vevo": "Tagcat",
+      "kibocsajto": "Tagfeed",
+      "nOsszeg": 44695,
+      "fizHatDatum": "2020-02-12"
+    },
+    {
+      "id": 102,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Oyoloo",
+      "nOsszeg": 36598,
+      "fizHatDatum": "2019-06-30"
+    },
+    {
+      "id": 103,
+      "vevo": "Devify",
+      "kibocsajto": "Skaboo",
+      "nOsszeg": 28932,
+      "fizHatDatum": "2019-12-10"
+    },
+    {
+      "id": 104,
+      "vevo": "Linktype",
+      "kibocsajto": "Shuffletag",
+      "nOsszeg": 97301,
+      "fizHatDatum": "2019-11-21"
+    },
+    {
+      "id": 105,
+      "vevo": "Devbug",
+      "kibocsajto": "Voonix",
+      "nOsszeg": 111763,
+      "fizHatDatum": "2019-07-19"
+    },
+    {
+      "id": 106,
+      "vevo": "Realpoint",
+      "kibocsajto": "Yakijo",
+      "nOsszeg": 85256,
+      "fizHatDatum": "2020-03-22"
+    },
+    {
+      "id": 107,
+      "vevo": "Rhybox",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 35209,
+      "fizHatDatum": "2020-02-16"
+    },
+    {
+      "id": 108,
+      "vevo": "Yozio",
+      "kibocsajto": "Feednation",
+      "nOsszeg": 186052,
+      "fizHatDatum": "2020-07-22"
+    },
+    {
+      "id": 109,
+      "vevo": "Meembee",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 156495,
+      "fizHatDatum": "2020-03-23"
+    },
+    {
+      "id": 110,
+      "vevo": "Mycat",
+      "kibocsajto": "Mymm",
+      "nOsszeg": 61889,
+      "fizHatDatum": "2019-10-29"
+    },
+    {
+      "id": 111,
+      "vevo": "Voolia",
+      "kibocsajto": "Dynabox",
+      "nOsszeg": 177838,
+      "fizHatDatum": "2019-09-13"
+    },
+    {
+      "id": 112,
+      "vevo": "Eazzy",
+      "kibocsajto": "Eadel",
+      "nOsszeg": 149294,
+      "fizHatDatum": "2020-04-13"
+    },
+    {
+      "id": 113,
+      "vevo": "Lazz",
+      "kibocsajto": "Topicware",
+      "nOsszeg": 98388,
+      "fizHatDatum": "2020-04-15"
+    },
+    {
+      "id": 114,
+      "vevo": "Jayo",
+      "kibocsajto": "Blognation",
+      "nOsszeg": 88647,
+      "fizHatDatum": "2019-09-25"
+    },
+    {
+      "id": 115,
+      "vevo": "Tagopia",
+      "kibocsajto": "JumpXS",
+      "nOsszeg": 182801,
+      "fizHatDatum": "2019-10-22"
+    },
+    {
+      "id": 116,
+      "vevo": "Katz",
+      "kibocsajto": "Babbleset",
+      "nOsszeg": 114927,
+      "fizHatDatum": "2020-07-13"
+    },
+    {
+      "id": 117,
+      "vevo": "Muxo",
+      "kibocsajto": "Quinu",
+      "nOsszeg": 160287,
+      "fizHatDatum": "2020-04-18"
+    },
+    {
+      "id": 118,
+      "vevo": "Midel",
+      "kibocsajto": "Janyx",
+      "nOsszeg": 35745,
+      "fizHatDatum": "2020-06-14"
+    },
+    {
+      "id": 119,
+      "vevo": "Wordtune",
+      "kibocsajto": "Kare",
+      "nOsszeg": 84978,
+      "fizHatDatum": "2020-05-22"
+    },
+    {
+      "id": 120,
+      "vevo": "Kanoodle",
+      "kibocsajto": "Rhynyx",
+      "nOsszeg": 119959,
+      "fizHatDatum": "2020-03-17"
+    },
+    {
+      "id": 121,
+      "vevo": "Feedfire",
+      "kibocsajto": "Voonder",
+      "nOsszeg": 136166,
+      "fizHatDatum": "2019-10-09"
+    },
+    {
+      "id": 122,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Skidoo",
+      "nOsszeg": 35174,
+      "fizHatDatum": "2020-06-13"
+    },
+    {
+      "id": 123,
+      "vevo": "Dabtype",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 200211,
+      "fizHatDatum": "2019-08-10"
+    },
+    {
+      "id": 124,
+      "vevo": "Skyvu",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 24449,
+      "fizHatDatum": "2019-08-17"
+    },
+    {
+      "id": 125,
+      "vevo": "Avamba",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 212968,
+      "fizHatDatum": "2020-05-29"
+    },
+    {
+      "id": 126,
+      "vevo": "Livetube",
+      "kibocsajto": "Linklinks",
+      "nOsszeg": 151738,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 127,
+      "vevo": "Zoovu",
+      "kibocsajto": "Linklinks",
+      "nOsszeg": 165090,
+      "fizHatDatum": "2019-08-31"
+    },
+    {
+      "id": 128,
+      "vevo": "Dabjam",
+      "kibocsajto": "Skyvu",
+      "nOsszeg": 193832,
+      "fizHatDatum": "2020-01-21"
+    },
+    {
+      "id": 129,
+      "vevo": "Kaymbo",
+      "kibocsajto": "Kazu",
+      "nOsszeg": 196173,
+      "fizHatDatum": "2019-10-10"
+    },
+    {
+      "id": 130,
+      "vevo": "Rhynoodle",
+      "kibocsajto": "InnoZ",
+      "nOsszeg": 104515,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 131,
+      "vevo": "Fanoodle",
+      "kibocsajto": "Bluejam",
+      "nOsszeg": 123089,
+      "fizHatDatum": "2020-04-12"
+    },
+    {
+      "id": 132,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Quimba",
+      "nOsszeg": 20013,
+      "fizHatDatum": "2019-12-20"
+    },
+    {
+      "id": 133,
+      "vevo": "Aivee",
+      "kibocsajto": "Jamia",
+      "nOsszeg": 102104,
+      "fizHatDatum": "2020-06-08"
+    },
+    {
+      "id": 134,
+      "vevo": "Skinder",
+      "kibocsajto": "Katz",
+      "nOsszeg": 209579,
+      "fizHatDatum": "2019-09-19"
+    },
+    {
+      "id": 135,
+      "vevo": "Babbleopia",
+      "kibocsajto": "Roodel",
+      "nOsszeg": 38966,
+      "fizHatDatum": "2019-07-24"
+    },
+    {
+      "id": 136,
+      "vevo": "Lazz",
+      "kibocsajto": "Riffwire",
+      "nOsszeg": 81642,
+      "fizHatDatum": "2019-11-13"
+    },
+    {
+      "id": 137,
+      "vevo": "Rhycero",
+      "kibocsajto": "Dabjam",
+      "nOsszeg": 95502,
+      "fizHatDatum": "2019-08-03"
+    },
+    {
+      "id": 138,
+      "vevo": "Buzzster",
+      "kibocsajto": "Agivu",
+      "nOsszeg": 160624,
+      "fizHatDatum": "2020-07-29"
+    },
+    {
+      "id": 139,
+      "vevo": "Pixoboo",
+      "kibocsajto": "Twinder",
+      "nOsszeg": 47585,
+      "fizHatDatum": "2019-08-27"
+    },
+    {
+      "id": 140,
+      "vevo": "Zoonder",
+      "kibocsajto": "Tazzy",
+      "nOsszeg": 129137,
+      "fizHatDatum": "2020-01-31"
+    },
+    {
+      "id": 141,
+      "vevo": "Edgeblab",
+      "kibocsajto": "Aimbo",
+      "nOsszeg": 9411,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 142,
+      "vevo": "Buzzshare",
+      "kibocsajto": "Avamba",
+      "nOsszeg": 165141,
+      "fizHatDatum": "2019-09-09"
+    },
+    {
+      "id": 143,
+      "vevo": "Devpulse",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 90013,
+      "fizHatDatum": "2019-11-23"
+    },
+    {
+      "id": 144,
+      "vevo": "Twiyo",
+      "kibocsajto": "Fivechat",
+      "nOsszeg": 214112,
+      "fizHatDatum": "2020-06-08"
+    },
+    {
+      "id": 145,
+      "vevo": "Topicshots",
+      "kibocsajto": "Dabshots",
+      "nOsszeg": 48400,
+      "fizHatDatum": "2019-07-22"
+    },
+    {
+      "id": 146,
+      "vevo": "Meevee",
+      "kibocsajto": "Yata",
+      "nOsszeg": 139714,
+      "fizHatDatum": "2019-08-16"
+    },
+    {
+      "id": 147,
+      "vevo": "Devshare",
+      "kibocsajto": "Voonte",
+      "nOsszeg": 210498,
+      "fizHatDatum": "2019-12-24"
+    },
+    {
+      "id": 148,
+      "vevo": "Edgeify",
+      "kibocsajto": "Devbug",
+      "nOsszeg": 173128,
+      "fizHatDatum": "2019-08-08"
+    },
+    {
+      "id": 149,
+      "vevo": "Fivebridge",
+      "kibocsajto": "Kare",
+      "nOsszeg": 123750,
+      "fizHatDatum": "2020-07-13"
+    },
+    {
+      "id": 150,
+      "vevo": "Ntag",
+      "kibocsajto": "Zoomcast",
+      "nOsszeg": 34010,
+      "fizHatDatum": "2020-04-17"
+    },
+    {
+      "id": 151,
+      "vevo": "Fiveclub",
+      "kibocsajto": "Zoombox",
+      "nOsszeg": 51197,
+      "fizHatDatum": "2020-05-13"
+    },
+    {
+      "id": 152,
+      "vevo": "Tagcat",
+      "kibocsajto": "Lazzy",
+      "nOsszeg": 186623,
+      "fizHatDatum": "2020-07-15"
+    },
+    {
+      "id": 153,
+      "vevo": "Centimia",
+      "kibocsajto": "Devshare",
+      "nOsszeg": 100136,
+      "fizHatDatum": "2019-08-19"
+    },
+    {
+      "id": 154,
+      "vevo": "Npath",
+      "kibocsajto": "Trudoo",
+      "nOsszeg": 158696,
+      "fizHatDatum": "2019-09-05"
+    },
+    {
+      "id": 155,
+      "vevo": "Minyx",
+      "kibocsajto": "Eamia",
+      "nOsszeg": 48221,
+      "fizHatDatum": "2020-07-12"
+    },
+    {
+      "id": 156,
+      "vevo": "Twinte",
+      "kibocsajto": "DabZ",
+      "nOsszeg": 6929,
+      "fizHatDatum": "2020-03-04"
+    },
+    {
+      "id": 157,
+      "vevo": "Gabvine",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 176691,
+      "fizHatDatum": "2020-06-28"
+    },
+    {
+      "id": 158,
+      "vevo": "Mycat",
+      "kibocsajto": "Quaxo",
+      "nOsszeg": 180559,
+      "fizHatDatum": "2019-11-11"
+    },
+    {
+      "id": 159,
+      "vevo": "Feedmix",
+      "kibocsajto": "Fliptune",
+      "nOsszeg": 148534,
+      "fizHatDatum": "2020-03-15"
+    },
+    {
+      "id": 160,
+      "vevo": "Yodo",
+      "kibocsajto": "Quimm",
+      "nOsszeg": 157100,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 161,
+      "vevo": "Zoonoodle",
+      "kibocsajto": "Quamba",
+      "nOsszeg": 151206,
+      "fizHatDatum": "2020-03-03"
+    },
+    {
+      "id": 162,
+      "vevo": "Flashdog",
+      "kibocsajto": "BlogXS",
+      "nOsszeg": 33671,
+      "fizHatDatum": "2020-03-27"
+    },
+    {
+      "id": 163,
+      "vevo": "Centidel",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 228481,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 164,
+      "vevo": "Babbleopia",
+      "kibocsajto": "Pixoboo",
+      "nOsszeg": 208630,
+      "fizHatDatum": "2019-10-29"
+    },
+    {
+      "id": 165,
+      "vevo": "Ozu",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 87756,
+      "fizHatDatum": "2020-01-24"
+    },
+    {
+      "id": 166,
+      "vevo": "Twinte",
+      "kibocsajto": "Avavee",
+      "nOsszeg": 31947,
+      "fizHatDatum": "2019-12-01"
+    },
+    {
+      "id": 167,
+      "vevo": "LiveZ",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 242396,
+      "fizHatDatum": "2020-01-26"
+    },
+    {
+      "id": 168,
+      "vevo": "Photofeed",
+      "kibocsajto": "Kwilith",
+      "nOsszeg": 202347,
+      "fizHatDatum": "2020-01-22"
+    },
+    {
+      "id": 169,
+      "vevo": "Zoonoodle",
+      "kibocsajto": "Yozio",
+      "nOsszeg": 127462,
+      "fizHatDatum": "2019-09-08"
+    },
+    {
+      "id": 170,
+      "vevo": "Twinder",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 192813,
+      "fizHatDatum": "2020-02-01"
+    },
+    {
+      "id": 171,
+      "vevo": "Skyba",
+      "kibocsajto": "Twitterbridge",
+      "nOsszeg": 144295,
+      "fizHatDatum": "2020-01-25"
+    },
+    {
+      "id": 172,
+      "vevo": "Feedmix",
+      "kibocsajto": "LiveZ",
+      "nOsszeg": 197034,
+      "fizHatDatum": "2019-08-24"
+    },
+    {
+      "id": 173,
+      "vevo": "Brainverse",
+      "kibocsajto": "Zoovu",
+      "nOsszeg": 18830,
+      "fizHatDatum": "2019-08-06"
+    },
+    {
+      "id": 174,
+      "vevo": "Omba",
+      "kibocsajto": "Feedfire",
+      "nOsszeg": 146848,
+      "fizHatDatum": "2019-10-06"
+    },
+    {
+      "id": 175,
+      "vevo": "Oyoba",
+      "kibocsajto": "Zoonder",
+      "nOsszeg": 214436,
+      "fizHatDatum": "2020-03-23"
+    },
+    {
+      "id": 176,
+      "vevo": "Centidel",
+      "kibocsajto": "Jabbersphere",
+      "nOsszeg": 18575,
+      "fizHatDatum": "2019-07-07"
+    },
+    {
+      "id": 177,
+      "vevo": "Eidel",
+      "kibocsajto": "Gevee",
+      "nOsszeg": 97410,
+      "fizHatDatum": "2019-11-01"
+    },
+    {
+      "id": 178,
+      "vevo": "Fadeo",
+      "kibocsajto": "Brainsphere",
+      "nOsszeg": 199756,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 179,
+      "vevo": "Zoomdog",
+      "kibocsajto": "Ntags",
+      "nOsszeg": 185468,
+      "fizHatDatum": "2019-11-17"
+    },
+    {
+      "id": 180,
+      "vevo": "Skippad",
+      "kibocsajto": "Demimbu",
+      "nOsszeg": 158441,
+      "fizHatDatum": "2020-01-21"
+    },
+    {
+      "id": 181,
+      "vevo": "Wordpedia",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 6051,
+      "fizHatDatum": "2019-12-19"
+    },
+    {
+      "id": 182,
+      "vevo": "Mymm",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 56879,
+      "fizHatDatum": "2020-06-19"
+    },
+    {
+      "id": 183,
+      "vevo": "Bubblemix",
+      "kibocsajto": "Edgetag",
+      "nOsszeg": 33880,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 184,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 28508,
+      "fizHatDatum": "2020-07-02"
+    },
+    {
+      "id": 185,
+      "vevo": "Twiyo",
+      "kibocsajto": "Meevee",
+      "nOsszeg": 128102,
+      "fizHatDatum": "2020-05-02"
+    },
+    {
+      "id": 186,
+      "vevo": "Centidel",
+      "kibocsajto": "Centizu",
+      "nOsszeg": 231221,
+      "fizHatDatum": "2019-09-23"
+    },
+    {
+      "id": 187,
+      "vevo": "Aimbo",
+      "kibocsajto": "Voomm",
+      "nOsszeg": 140871,
+      "fizHatDatum": "2019-10-12"
+    },
+    {
+      "id": 188,
+      "vevo": "Oloo",
+      "kibocsajto": "Edgewire",
+      "nOsszeg": 169041,
+      "fizHatDatum": "2019-07-09"
+    },
+    {
+      "id": 189,
+      "vevo": "Rhyzio",
+      "kibocsajto": "Flashdog",
+      "nOsszeg": 172028,
+      "fizHatDatum": "2020-07-04"
+    },
+    {
+      "id": 190,
+      "vevo": "Pixope",
+      "kibocsajto": "Latz",
+      "nOsszeg": 127778,
+      "fizHatDatum": "2019-07-31"
+    },
+    {
+      "id": 191,
+      "vevo": "Katz",
+      "kibocsajto": "Einti",
+      "nOsszeg": 154124,
+      "fizHatDatum": "2019-08-14"
+    },
+    {
+      "id": 192,
+      "vevo": "Brainsphere",
+      "kibocsajto": "Izio",
+      "nOsszeg": 142557,
+      "fizHatDatum": "2019-11-03"
+    },
+    {
+      "id": 193,
+      "vevo": "Yambee",
+      "kibocsajto": "Flashset",
+      "nOsszeg": 230704,
+      "fizHatDatum": "2019-12-23"
+    },
+    {
+      "id": 194,
+      "vevo": "Devify",
+      "kibocsajto": "Npath",
+      "nOsszeg": 101758,
+      "fizHatDatum": "2019-08-10"
+    },
+    {
+      "id": 195,
+      "vevo": "Ailane",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 17968,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 196,
+      "vevo": "Voonix",
+      "kibocsajto": "Lazz",
+      "nOsszeg": 46082,
+      "fizHatDatum": "2020-06-24"
+    },
+    {
+      "id": 197,
+      "vevo": "Flipbug",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 86708,
+      "fizHatDatum": "2020-04-26"
+    },
+    {
+      "id": 198,
+      "vevo": "Voonyx",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 151812,
+      "fizHatDatum": "2019-08-17"
+    },
+    {
+      "id": 199,
+      "vevo": "Eamia",
+      "kibocsajto": "DabZ",
+      "nOsszeg": 67039,
+      "fizHatDatum": "2019-10-22"
+    },
+    {
+      "id": 200,
+      "vevo": "Yodo",
+      "kibocsajto": "Buzzster",
+      "nOsszeg": 232624,
+      "fizHatDatum": "2019-10-05"
+    },
+    {
+      "id": 201,
+      "vevo": "Avamba",
+      "kibocsajto": "Buzzbean",
+      "nOsszeg": 78250,
+      "fizHatDatum": "2019-08-29"
+    },
+    {
+      "id": 202,
+      "vevo": "Skidoo",
+      "kibocsajto": "Twitternation",
+      "nOsszeg": 21242,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 203,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 244863,
+      "fizHatDatum": "2019-08-04"
+    },
+    {
+      "id": 204,
+      "vevo": "Blogspan",
+      "kibocsajto": "Edgeclub",
+      "nOsszeg": 101348,
+      "fizHatDatum": "2020-04-08"
+    },
+    {
+      "id": 205,
+      "vevo": "Skalith",
+      "kibocsajto": "Skiba",
+      "nOsszeg": 34468,
+      "fizHatDatum": "2020-03-08"
+    },
+    {
+      "id": 206,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Jaxspan",
+      "nOsszeg": 175277,
+      "fizHatDatum": "2019-10-21"
+    },
+    {
+      "id": 207,
+      "vevo": "Jabbercube",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 41877,
+      "fizHatDatum": "2020-05-26"
+    },
+    {
+      "id": 208,
+      "vevo": "Topicblab",
+      "kibocsajto": "Edgepulse",
+      "nOsszeg": 58831,
+      "fizHatDatum": "2019-09-03"
+    },
+    {
+      "id": 209,
+      "vevo": "Brightdog",
+      "kibocsajto": "Kaymbo",
+      "nOsszeg": 211563,
+      "fizHatDatum": "2019-12-07"
+    },
+    {
+      "id": 210,
+      "vevo": "Voonyx",
+      "kibocsajto": "LiveZ",
+      "nOsszeg": 164959,
+      "fizHatDatum": "2019-07-16"
+    },
+    {
+      "id": 211,
+      "vevo": "Livepath",
+      "kibocsajto": "Centizu",
+      "nOsszeg": 215161,
+      "fizHatDatum": "2020-06-07"
+    },
+    {
+      "id": 212,
+      "vevo": "Rooxo",
+      "kibocsajto": "Skaboo",
+      "nOsszeg": 158324,
+      "fizHatDatum": "2019-07-11"
+    },
+    {
+      "id": 213,
+      "vevo": "Dynazzy",
+      "kibocsajto": "Browseblab",
+      "nOsszeg": 89335,
+      "fizHatDatum": "2020-01-18"
+    },
+    {
+      "id": 214,
+      "vevo": "Skyble",
+      "kibocsajto": "Leexo",
+      "nOsszeg": 197795,
+      "fizHatDatum": "2019-11-11"
+    },
+    {
+      "id": 215,
+      "vevo": "Skimia",
+      "kibocsajto": "Oyonder",
+      "nOsszeg": 122648,
+      "fizHatDatum": "2020-07-06"
+    },
+    {
+      "id": 216,
+      "vevo": "Skinix",
+      "kibocsajto": "Riffwire",
+      "nOsszeg": 174910,
+      "fizHatDatum": "2019-08-22"
+    },
+    {
+      "id": 217,
+      "vevo": "Quimm",
+      "kibocsajto": "Fivespan",
+      "nOsszeg": 26304,
+      "fizHatDatum": "2020-02-10"
+    },
+    {
+      "id": 218,
+      "vevo": "Dabshots",
+      "kibocsajto": "Agimba",
+      "nOsszeg": 34553,
+      "fizHatDatum": "2020-06-03"
+    },
+    {
+      "id": 219,
+      "vevo": "Flashspan",
+      "kibocsajto": "Zooxo",
+      "nOsszeg": 233724,
+      "fizHatDatum": "2020-06-06"
+    },
+    {
+      "id": 220,
+      "vevo": "Rhybox",
+      "kibocsajto": "Quinu",
+      "nOsszeg": 151574,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 221,
+      "vevo": "Podcat",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 49155,
+      "fizHatDatum": "2019-10-14"
+    },
+    {
+      "id": 222,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Skyvu",
+      "nOsszeg": 145802,
+      "fizHatDatum": "2020-04-27"
+    },
+    {
+      "id": 223,
+      "vevo": "Bubblemix",
+      "kibocsajto": "Brainbox",
+      "nOsszeg": 197645,
+      "fizHatDatum": "2020-05-12"
+    },
+    {
+      "id": 224,
+      "vevo": "Tekfly",
+      "kibocsajto": "Zazio",
+      "nOsszeg": 65809,
+      "fizHatDatum": "2020-01-09"
+    },
+    {
+      "id": 225,
+      "vevo": "Roodel",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 175229,
+      "fizHatDatum": "2020-04-22"
+    },
+    {
+      "id": 226,
+      "vevo": "Dynabox",
+      "kibocsajto": "Fadeo",
+      "nOsszeg": 200594,
+      "fizHatDatum": "2019-12-02"
+    },
+    {
+      "id": 227,
+      "vevo": "Quire",
+      "kibocsajto": "Flashdog",
+      "nOsszeg": 93623,
+      "fizHatDatum": "2020-05-24"
+    },
+    {
+      "id": 228,
+      "vevo": "Mydo",
+      "kibocsajto": "Kare",
+      "nOsszeg": 132376,
+      "fizHatDatum": "2020-03-20"
+    },
+    {
+      "id": 229,
+      "vevo": "Voonyx",
+      "kibocsajto": "Babbleset",
+      "nOsszeg": 224032,
+      "fizHatDatum": "2019-11-17"
+    },
+    {
+      "id": 230,
+      "vevo": "Yakidoo",
+      "kibocsajto": "Yacero",
+      "nOsszeg": 245184,
+      "fizHatDatum": "2020-01-17"
+    },
+    {
+      "id": 231,
+      "vevo": "Edgeclub",
+      "kibocsajto": "Flipbug",
+      "nOsszeg": 210245,
+      "fizHatDatum": "2020-01-27"
+    },
+    {
+      "id": 232,
+      "vevo": "Flashspan",
+      "kibocsajto": "Thoughtmix",
+      "nOsszeg": 23206,
+      "fizHatDatum": "2019-07-17"
+    },
+    {
+      "id": 233,
+      "vevo": "Thoughtmix",
+      "kibocsajto": "Edgewire",
+      "nOsszeg": 4353,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 234,
+      "vevo": "Ooba",
+      "kibocsajto": "Blogpad",
+      "nOsszeg": 168398,
+      "fizHatDatum": "2020-04-15"
+    },
+    {
+      "id": 235,
+      "vevo": "Eamia",
+      "kibocsajto": "Nlounge",
+      "nOsszeg": 132392,
+      "fizHatDatum": "2020-01-11"
+    },
+    {
+      "id": 236,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 242394,
+      "fizHatDatum": "2020-03-29"
+    },
+    {
+      "id": 237,
+      "vevo": "Rhyzio",
+      "kibocsajto": "Brainverse",
+      "nOsszeg": 86832,
+      "fizHatDatum": "2020-01-04"
+    },
+    {
+      "id": 238,
+      "vevo": "Devbug",
+      "kibocsajto": "Browsetype",
+      "nOsszeg": 29311,
+      "fizHatDatum": "2020-04-17"
+    },
+    {
+      "id": 239,
+      "vevo": "Flipstorm",
+      "kibocsajto": "Fiveclub",
+      "nOsszeg": 9819,
+      "fizHatDatum": "2020-07-17"
+    },
+    {
+      "id": 240,
+      "vevo": "Zoonder",
+      "kibocsajto": "Buzzdog",
+      "nOsszeg": 179683,
+      "fizHatDatum": "2020-02-22"
+    },
+    {
+      "id": 241,
+      "vevo": "Tambee",
+      "kibocsajto": "Devbug",
+      "nOsszeg": 68160,
+      "fizHatDatum": "2019-07-23"
+    },
+    {
+      "id": 242,
+      "vevo": "Blogpad",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 52906,
+      "fizHatDatum": "2019-10-18"
+    },
+    {
+      "id": 243,
+      "vevo": "Browsedrive",
+      "kibocsajto": "Bluejam",
+      "nOsszeg": 242013,
+      "fizHatDatum": "2020-05-19"
+    },
+    {
+      "id": 244,
+      "vevo": "Skajo",
+      "kibocsajto": "Plajo",
+      "nOsszeg": 228704,
+      "fizHatDatum": "2019-12-27"
+    },
+    {
+      "id": 245,
+      "vevo": "Twimm",
+      "kibocsajto": "Yombu",
+      "nOsszeg": 226363,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 246,
+      "vevo": "BlogXS",
+      "kibocsajto": "Gigazoom",
+      "nOsszeg": 173292,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 247,
+      "vevo": "Skyba",
+      "kibocsajto": "Midel",
+      "nOsszeg": 180104,
+      "fizHatDatum": "2019-07-20"
+    },
+    {
+      "id": 248,
+      "vevo": "Einti",
+      "kibocsajto": "Mudo",
+      "nOsszeg": 23638,
+      "fizHatDatum": "2019-12-25"
+    },
+    {
+      "id": 249,
+      "vevo": "Dabfeed",
+      "kibocsajto": "Tagpad",
+      "nOsszeg": 17582,
+      "fizHatDatum": "2020-06-01"
+    },
+    {
+      "id": 250,
+      "vevo": "Dynabox",
+      "kibocsajto": "Katz",
+      "nOsszeg": 225759,
+      "fizHatDatum": "2020-04-03"
+    },
+    {
+      "id": 251,
+      "vevo": "Linktype",
+      "kibocsajto": "Dynazzy",
+      "nOsszeg": 140954,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 252,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Blogpad",
+      "nOsszeg": 7074,
+      "fizHatDatum": "2020-01-15"
+    },
+    {
+      "id": 253,
+      "vevo": "Jayo",
+      "kibocsajto": "Bubblebox",
+      "nOsszeg": 47484,
+      "fizHatDatum": "2019-10-02"
+    },
+    {
+      "id": 254,
+      "vevo": "Talane",
+      "kibocsajto": "Brightbean",
+      "nOsszeg": 103361,
+      "fizHatDatum": "2019-09-24"
+    },
+    {
+      "id": 255,
+      "vevo": "Livepath",
+      "kibocsajto": "Bluejam",
+      "nOsszeg": 230541,
+      "fizHatDatum": "2020-05-24"
+    },
+    {
+      "id": 256,
+      "vevo": "Jayo",
+      "kibocsajto": "Zoonoodle",
+      "nOsszeg": 99344,
+      "fizHatDatum": "2020-02-02"
+    },
+    {
+      "id": 257,
+      "vevo": "Tagpad",
+      "kibocsajto": "Browsetype",
+      "nOsszeg": 102192,
+      "fizHatDatum": "2020-03-05"
+    },
+    {
+      "id": 258,
+      "vevo": "Photobug",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 112444,
+      "fizHatDatum": "2019-11-26"
+    },
+    {
+      "id": 259,
+      "vevo": "Skinder",
+      "kibocsajto": "Ooba",
+      "nOsszeg": 149292,
+      "fizHatDatum": "2019-08-06"
+    },
+    {
+      "id": 260,
+      "vevo": "Quamba",
+      "kibocsajto": "Twitternation",
+      "nOsszeg": 40784,
+      "fizHatDatum": "2020-06-22"
+    },
+    {
+      "id": 261,
+      "vevo": "Rhycero",
+      "kibocsajto": "Meemm",
+      "nOsszeg": 226753,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 262,
+      "vevo": "Eazzy",
+      "kibocsajto": "Centimia",
+      "nOsszeg": 68898,
+      "fizHatDatum": "2020-07-23"
+    },
+    {
+      "id": 263,
+      "vevo": "Vitz",
+      "kibocsajto": "Trilia",
+      "nOsszeg": 56683,
+      "fizHatDatum": "2019-11-28"
+    },
+    {
+      "id": 264,
+      "vevo": "Shufflester",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 182142,
+      "fizHatDatum": "2020-02-22"
+    },
+    {
+      "id": 265,
+      "vevo": "Divape",
+      "kibocsajto": "Wikizz",
+      "nOsszeg": 213117,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 266,
+      "vevo": "Thoughtstorm",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 180341,
+      "fizHatDatum": "2019-06-28"
+    },
+    {
+      "id": 267,
+      "vevo": "Skajo",
+      "kibocsajto": "Topiczoom",
+      "nOsszeg": 196335,
+      "fizHatDatum": "2020-01-13"
+    },
+    {
+      "id": 268,
+      "vevo": "Eazzy",
+      "kibocsajto": "Photofeed",
+      "nOsszeg": 107010,
+      "fizHatDatum": "2020-04-30"
+    },
+    {
+      "id": 269,
+      "vevo": "Topicshots",
+      "kibocsajto": "Photofeed",
+      "nOsszeg": 172454,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 270,
+      "vevo": "Skyble",
+      "kibocsajto": "JumpXS",
+      "nOsszeg": 181383,
+      "fizHatDatum": "2020-05-01"
+    },
+    {
+      "id": 271,
+      "vevo": "Kare",
+      "kibocsajto": "Katz",
+      "nOsszeg": 245963,
+      "fizHatDatum": "2019-07-29"
+    },
+    {
+      "id": 272,
+      "vevo": "Youspan",
+      "kibocsajto": "Tagchat",
+      "nOsszeg": 29117,
+      "fizHatDatum": "2020-06-19"
+    },
+    {
+      "id": 273,
+      "vevo": "Blogtags",
+      "kibocsajto": "BlogXS",
+      "nOsszeg": 53185,
+      "fizHatDatum": "2020-04-10"
+    },
+    {
+      "id": 274,
+      "vevo": "Rhycero",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 53581,
+      "fizHatDatum": "2019-06-23"
+    },
+    {
+      "id": 275,
+      "vevo": "Skipstorm",
+      "kibocsajto": "Fivechat",
+      "nOsszeg": 73629,
+      "fizHatDatum": "2019-09-23"
+    },
+    {
+      "id": 276,
+      "vevo": "Realfire",
+      "kibocsajto": "Brainbox",
+      "nOsszeg": 134203,
+      "fizHatDatum": "2020-01-25"
+    },
+    {
+      "id": 277,
+      "vevo": "Camido",
+      "kibocsajto": "Kimia",
+      "nOsszeg": 121186,
+      "fizHatDatum": "2020-07-20"
+    },
+    {
+      "id": 278,
+      "vevo": "Photojam",
+      "kibocsajto": "Yadel",
+      "nOsszeg": 229630,
+      "fizHatDatum": "2019-07-14"
+    },
+    {
+      "id": 279,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 16764,
+      "fizHatDatum": "2019-12-16"
+    },
+    {
+      "id": 280,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 98351,
+      "fizHatDatum": "2019-11-22"
+    },
+    {
+      "id": 281,
+      "vevo": "Yacero",
+      "kibocsajto": "Zoomcast",
+      "nOsszeg": 139131,
+      "fizHatDatum": "2020-02-26"
+    },
+    {
+      "id": 282,
+      "vevo": "Pixonyx",
+      "kibocsajto": "Feedfish",
+      "nOsszeg": 170700,
+      "fizHatDatum": "2020-01-28"
+    },
+    {
+      "id": 283,
+      "vevo": "Flashdog",
+      "kibocsajto": "Viva",
+      "nOsszeg": 232091,
+      "fizHatDatum": "2020-03-15"
+    },
+    {
+      "id": 284,
+      "vevo": "Yabox",
+      "kibocsajto": "Flashpoint",
+      "nOsszeg": 71580,
+      "fizHatDatum": "2020-02-09"
+    },
+    {
+      "id": 285,
+      "vevo": "Jetpulse",
+      "kibocsajto": "Yabox",
+      "nOsszeg": 107244,
+      "fizHatDatum": "2020-07-11"
+    },
+    {
+      "id": 286,
+      "vevo": "Voonder",
+      "kibocsajto": "Fanoodle",
+      "nOsszeg": 172898,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 287,
+      "vevo": "Twinte",
+      "kibocsajto": "Feedbug",
+      "nOsszeg": 231059,
+      "fizHatDatum": "2019-11-03"
+    },
+    {
+      "id": 288,
+      "vevo": "Oyoloo",
+      "kibocsajto": "Babbleopia",
+      "nOsszeg": 117621,
+      "fizHatDatum": "2020-02-15"
+    },
+    {
+      "id": 289,
+      "vevo": "Twitterbridge",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 162402,
+      "fizHatDatum": "2020-05-15"
+    },
+    {
+      "id": 290,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 29733,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 291,
+      "vevo": "Meejo",
+      "kibocsajto": "Lazz",
+      "nOsszeg": 35909,
+      "fizHatDatum": "2019-12-10"
+    },
+    {
+      "id": 292,
+      "vevo": "Chatterpoint",
+      "kibocsajto": "Jabbersphere",
+      "nOsszeg": 173303,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 293,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Thoughtsphere",
+      "nOsszeg": 206854,
+      "fizHatDatum": "2020-05-04"
+    },
+    {
+      "id": 294,
+      "vevo": "JumpXS",
+      "kibocsajto": "Eare",
+      "nOsszeg": 109330,
+      "fizHatDatum": "2019-07-26"
+    },
+    {
+      "id": 295,
+      "vevo": "Riffwire",
+      "kibocsajto": "Jabbercube",
+      "nOsszeg": 198045,
+      "fizHatDatum": "2020-04-23"
+    },
+    {
+      "id": 296,
+      "vevo": "Meevee",
+      "kibocsajto": "Feedfish",
+      "nOsszeg": 43695,
+      "fizHatDatum": "2020-06-20"
+    },
+    {
+      "id": 297,
+      "vevo": "Latz",
+      "kibocsajto": "Zoombox",
+      "nOsszeg": 174539,
+      "fizHatDatum": "2019-11-28"
+    },
+    {
+      "id": 298,
+      "vevo": "Oyonder",
+      "kibocsajto": "Mita",
+      "nOsszeg": 56378,
+      "fizHatDatum": "2019-12-25"
+    },
+    {
+      "id": 299,
+      "vevo": "Feedspan",
+      "kibocsajto": "Trudeo",
+      "nOsszeg": 37205,
+      "fizHatDatum": "2019-06-30"
+    },
+    {
+      "id": 300,
+      "vevo": "Gabtune",
+      "kibocsajto": "Topdrive",
+      "nOsszeg": 245129,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 301,
+      "vevo": "Buzzshare",
+      "kibocsajto": "Twitterwire",
+      "nOsszeg": 187049,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 302,
+      "vevo": "Myworks",
+      "kibocsajto": "Mybuzz",
+      "nOsszeg": 175856,
+      "fizHatDatum": "2019-12-21"
+    },
+    {
+      "id": 303,
+      "vevo": "Tekfly",
+      "kibocsajto": "Trudoo",
+      "nOsszeg": 184223,
+      "fizHatDatum": "2020-04-07"
+    },
+    {
+      "id": 304,
+      "vevo": "Tavu",
+      "kibocsajto": "Jetwire",
+      "nOsszeg": 210166,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 305,
+      "vevo": "Meevee",
+      "kibocsajto": "Gigabox",
+      "nOsszeg": 65084,
+      "fizHatDatum": "2020-04-29"
+    },
+    {
+      "id": 306,
+      "vevo": "Brainbox",
+      "kibocsajto": "Jabbercube",
+      "nOsszeg": 144024,
+      "fizHatDatum": "2019-09-28"
+    },
+    {
+      "id": 307,
+      "vevo": "Wordtune",
+      "kibocsajto": "Oyonder",
+      "nOsszeg": 141801,
+      "fizHatDatum": "2019-09-21"
+    },
+    {
+      "id": 308,
+      "vevo": "Zoombeat",
+      "kibocsajto": "DabZ",
+      "nOsszeg": 240801,
+      "fizHatDatum": "2019-11-21"
+    },
+    {
+      "id": 309,
+      "vevo": "Youspan",
+      "kibocsajto": "Realbridge",
+      "nOsszeg": 199641,
+      "fizHatDatum": "2019-12-28"
+    },
+    {
+      "id": 310,
+      "vevo": "Blogtags",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 100535,
+      "fizHatDatum": "2020-07-21"
+    },
+    {
+      "id": 311,
+      "vevo": "Feedbug",
+      "kibocsajto": "Eimbee",
+      "nOsszeg": 184591,
+      "fizHatDatum": "2019-10-16"
+    },
+    {
+      "id": 312,
+      "vevo": "Yakijo",
+      "kibocsajto": "Divape",
+      "nOsszeg": 124208,
+      "fizHatDatum": "2019-11-14"
+    },
+    {
+      "id": 313,
+      "vevo": "Einti",
+      "kibocsajto": "Twiyo",
+      "nOsszeg": 53920,
+      "fizHatDatum": "2019-09-05"
+    },
+    {
+      "id": 314,
+      "vevo": "Rooxo",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 168049,
+      "fizHatDatum": "2020-05-13"
+    },
+    {
+      "id": 315,
+      "vevo": "Mybuzz",
+      "kibocsajto": "Riffpath",
+      "nOsszeg": 188663,
+      "fizHatDatum": "2020-01-29"
+    },
+    {
+      "id": 316,
+      "vevo": "Mycat",
+      "kibocsajto": "Jabberbean",
+      "nOsszeg": 199327,
+      "fizHatDatum": "2019-10-29"
+    },
+    {
+      "id": 317,
+      "vevo": "Flashset",
+      "kibocsajto": "Topiczoom",
+      "nOsszeg": 148397,
+      "fizHatDatum": "2020-01-17"
+    },
+    {
+      "id": 318,
+      "vevo": "Rhyloo",
+      "kibocsajto": "Realmix",
+      "nOsszeg": 151432,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 319,
+      "vevo": "Fatz",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 220381,
+      "fizHatDatum": "2019-10-08"
+    },
+    {
+      "id": 320,
+      "vevo": "Voonyx",
+      "kibocsajto": "Zoomdog",
+      "nOsszeg": 113431,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 321,
+      "vevo": "Skalith",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 68859,
+      "fizHatDatum": "2019-07-11"
+    },
+    {
+      "id": 322,
+      "vevo": "Vidoo",
+      "kibocsajto": "Thoughtmix",
+      "nOsszeg": 237039,
+      "fizHatDatum": "2020-07-05"
+    },
+    {
+      "id": 323,
+      "vevo": "Topiclounge",
+      "kibocsajto": "Voonix",
+      "nOsszeg": 2812,
+      "fizHatDatum": "2019-07-17"
+    },
+    {
+      "id": 324,
+      "vevo": "Layo",
+      "kibocsajto": "Roomm",
+      "nOsszeg": 39233,
+      "fizHatDatum": "2020-07-30"
+    },
+    {
+      "id": 325,
+      "vevo": "Feedbug",
+      "kibocsajto": "Meembee",
+      "nOsszeg": 62876,
+      "fizHatDatum": "2020-03-20"
+    },
+    {
+      "id": 326,
+      "vevo": "Dynava",
+      "kibocsajto": "Aimbu",
+      "nOsszeg": 56110,
+      "fizHatDatum": "2020-01-10"
+    },
+    {
+      "id": 327,
+      "vevo": "Aibox",
+      "kibocsajto": "Topicware",
+      "nOsszeg": 79462,
+      "fizHatDatum": "2019-09-22"
+    },
+    {
+      "id": 328,
+      "vevo": "Feedspan",
+      "kibocsajto": "Feednation",
+      "nOsszeg": 11293,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 329,
+      "vevo": "Latz",
+      "kibocsajto": "Skilith",
+      "nOsszeg": 213654,
+      "fizHatDatum": "2019-08-02"
+    },
+    {
+      "id": 330,
+      "vevo": "Buzzdog",
+      "kibocsajto": "Fanoodle",
+      "nOsszeg": 240041,
+      "fizHatDatum": "2020-01-18"
+    },
+    {
+      "id": 331,
+      "vevo": "Browsezoom",
+      "kibocsajto": "Wikivu",
+      "nOsszeg": 243978,
+      "fizHatDatum": "2020-05-08"
+    },
+    {
+      "id": 332,
+      "vevo": "Avavee",
+      "kibocsajto": "Youopia",
+      "nOsszeg": 81724,
+      "fizHatDatum": "2019-08-27"
+    },
+    {
+      "id": 333,
+      "vevo": "Photobean",
+      "kibocsajto": "Rhyzio",
+      "nOsszeg": 161550,
+      "fizHatDatum": "2020-02-17"
+    },
+    {
+      "id": 334,
+      "vevo": "Zooveo",
+      "kibocsajto": "Topicstorm",
+      "nOsszeg": 214756,
+      "fizHatDatum": "2020-05-02"
+    },
+    {
+      "id": 335,
+      "vevo": "Zooxo",
+      "kibocsajto": "Realbridge",
+      "nOsszeg": 132170,
+      "fizHatDatum": "2019-10-25"
+    },
+    {
+      "id": 336,
+      "vevo": "Linkbuzz",
+      "kibocsajto": "Blognation",
+      "nOsszeg": 145856,
+      "fizHatDatum": "2020-05-13"
+    },
+    {
+      "id": 337,
+      "vevo": "LiveZ",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 197105,
+      "fizHatDatum": "2019-09-03"
+    },
+    {
+      "id": 338,
+      "vevo": "Gabtune",
+      "kibocsajto": "Muxo",
+      "nOsszeg": 199204,
+      "fizHatDatum": "2020-03-07"
+    },
+    {
+      "id": 339,
+      "vevo": "Yodo",
+      "kibocsajto": "Brainsphere",
+      "nOsszeg": 150998,
+      "fizHatDatum": "2020-05-14"
+    },
+    {
+      "id": 340,
+      "vevo": "Meetz",
+      "kibocsajto": "Kazu",
+      "nOsszeg": 191757,
+      "fizHatDatum": "2020-03-07"
+    },
+    {
+      "id": 341,
+      "vevo": "Eare",
+      "kibocsajto": "Viva",
+      "nOsszeg": 87538,
+      "fizHatDatum": "2020-03-19"
+    },
+    {
+      "id": 342,
+      "vevo": "Zoovu",
+      "kibocsajto": "Rhybox",
+      "nOsszeg": 162597,
+      "fizHatDatum": "2019-06-29"
+    },
+    {
+      "id": 343,
+      "vevo": "Chatterpoint",
+      "kibocsajto": "Geba",
+      "nOsszeg": 181469,
+      "fizHatDatum": "2019-10-22"
+    },
+    {
+      "id": 344,
+      "vevo": "Wikizz",
+      "kibocsajto": "Quinu",
+      "nOsszeg": 213223,
+      "fizHatDatum": "2019-07-22"
+    },
+    {
+      "id": 345,
+      "vevo": "Feedbug",
+      "kibocsajto": "Twitternation",
+      "nOsszeg": 142069,
+      "fizHatDatum": "2019-07-25"
+    },
+    {
+      "id": 346,
+      "vevo": "Skyndu",
+      "kibocsajto": "Abata",
+      "nOsszeg": 249694,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 347,
+      "vevo": "Realcube",
+      "kibocsajto": "Nlounge",
+      "nOsszeg": 205344,
+      "fizHatDatum": "2019-07-30"
+    },
+    {
+      "id": 348,
+      "vevo": "Livetube",
+      "kibocsajto": "Skivee",
+      "nOsszeg": 118937,
+      "fizHatDatum": "2019-07-31"
+    },
+    {
+      "id": 349,
+      "vevo": "Trilith",
+      "kibocsajto": "Divavu",
+      "nOsszeg": 136714,
+      "fizHatDatum": "2020-02-24"
+    },
+    {
+      "id": 350,
+      "vevo": "LiveZ",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 247358,
+      "fizHatDatum": "2020-06-25"
+    },
+    {
+      "id": 351,
+      "vevo": "JumpXS",
+      "kibocsajto": "Innotype",
+      "nOsszeg": 68731,
+      "fizHatDatum": "2020-07-13"
+    },
+    {
+      "id": 352,
+      "vevo": "Fadeo",
+      "kibocsajto": "Photofeed",
+      "nOsszeg": 80604,
+      "fizHatDatum": "2020-02-16"
+    },
+    {
+      "id": 353,
+      "vevo": "Innotype",
+      "kibocsajto": "Meedoo",
+      "nOsszeg": 174384,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 354,
+      "vevo": "Fatz",
+      "kibocsajto": "Shufflebeat",
+      "nOsszeg": 78975,
+      "fizHatDatum": "2020-05-06"
+    },
+    {
+      "id": 355,
+      "vevo": "Ooba",
+      "kibocsajto": "Riffpedia",
+      "nOsszeg": 157046,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 356,
+      "vevo": "Dablist",
+      "kibocsajto": "Wikivu",
+      "nOsszeg": 17828,
+      "fizHatDatum": "2020-05-17"
+    },
+    {
+      "id": 357,
+      "vevo": "Camimbo",
+      "kibocsajto": "Mymm",
+      "nOsszeg": 193180,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 358,
+      "vevo": "Dabjam",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 116045,
+      "fizHatDatum": "2020-06-01"
+    },
+    {
+      "id": 359,
+      "vevo": "Shuffletag",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 224774,
+      "fizHatDatum": "2020-01-30"
+    },
+    {
+      "id": 360,
+      "vevo": "Jabbercube",
+      "kibocsajto": "Flashpoint",
+      "nOsszeg": 105649,
+      "fizHatDatum": "2019-10-30"
+    },
+    {
+      "id": 361,
+      "vevo": "Wikibox",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 146438,
+      "fizHatDatum": "2019-07-19"
+    },
+    {
+      "id": 362,
+      "vevo": "Bubbletube",
+      "kibocsajto": "Pixope",
+      "nOsszeg": 214783,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 363,
+      "vevo": "Thoughtworks",
+      "kibocsajto": "Wikizz",
+      "nOsszeg": 92351,
+      "fizHatDatum": "2019-11-02"
+    },
+    {
+      "id": 364,
+      "vevo": "Buzzster",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 127823,
+      "fizHatDatum": "2020-07-08"
+    },
+    {
+      "id": 365,
+      "vevo": "Trudeo",
+      "kibocsajto": "Vimbo",
+      "nOsszeg": 183725,
+      "fizHatDatum": "2019-10-22"
+    },
+    {
+      "id": 366,
+      "vevo": "JumpXS",
+      "kibocsajto": "Jabbersphere",
+      "nOsszeg": 28133,
+      "fizHatDatum": "2019-07-04"
+    },
+    {
+      "id": 367,
+      "vevo": "Brainsphere",
+      "kibocsajto": "Jaloo",
+      "nOsszeg": 146450,
+      "fizHatDatum": "2020-07-29"
+    },
+    {
+      "id": 368,
+      "vevo": "Fanoodle",
+      "kibocsajto": "Blogtag",
+      "nOsszeg": 144253,
+      "fizHatDatum": "2019-12-30"
+    },
+    {
+      "id": 369,
+      "vevo": "Topicware",
+      "kibocsajto": "Meetz",
+      "nOsszeg": 37532,
+      "fizHatDatum": "2019-08-08"
+    },
+    {
+      "id": 370,
+      "vevo": "Topicshots",
+      "kibocsajto": "Yozio",
+      "nOsszeg": 171968,
+      "fizHatDatum": "2019-07-13"
+    },
+    {
+      "id": 371,
+      "vevo": "Feedfish",
+      "kibocsajto": "Yadel",
+      "nOsszeg": 21250,
+      "fizHatDatum": "2019-12-04"
+    },
+    {
+      "id": 372,
+      "vevo": "Miboo",
+      "kibocsajto": "Yombu",
+      "nOsszeg": 107013,
+      "fizHatDatum": "2019-10-14"
+    },
+    {
+      "id": 373,
+      "vevo": "Flashdog",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 69784,
+      "fizHatDatum": "2020-04-12"
+    },
+    {
+      "id": 374,
+      "vevo": "Topiclounge",
+      "kibocsajto": "Kwimbee",
+      "nOsszeg": 82461,
+      "fizHatDatum": "2019-11-02"
+    },
+    {
+      "id": 375,
+      "vevo": "Talane",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 145902,
+      "fizHatDatum": "2019-11-02"
+    },
+    {
+      "id": 376,
+      "vevo": "Skivee",
+      "kibocsajto": "Trudeo",
+      "nOsszeg": 35651,
+      "fizHatDatum": "2019-08-12"
+    },
+    {
+      "id": 377,
+      "vevo": "Katz",
+      "kibocsajto": "Twiyo",
+      "nOsszeg": 84327,
+      "fizHatDatum": "2019-11-28"
+    },
+    {
+      "id": 378,
+      "vevo": "Edgetag",
+      "kibocsajto": "Thoughtbeat",
+      "nOsszeg": 204372,
+      "fizHatDatum": "2020-07-05"
+    },
+    {
+      "id": 379,
+      "vevo": "Realblab",
+      "kibocsajto": "Wordtune",
+      "nOsszeg": 132202,
+      "fizHatDatum": "2019-10-16"
+    },
+    {
+      "id": 380,
+      "vevo": "Flashset",
+      "kibocsajto": "Feedspan",
+      "nOsszeg": 110501,
+      "fizHatDatum": "2020-03-04"
+    },
+    {
+      "id": 381,
+      "vevo": "Devify",
+      "kibocsajto": "Twinder",
+      "nOsszeg": 26922,
+      "fizHatDatum": "2020-07-20"
+    },
+    {
+      "id": 382,
+      "vevo": "Dazzlesphere",
+      "kibocsajto": "Mymm",
+      "nOsszeg": 72894,
+      "fizHatDatum": "2020-06-29"
+    },
+    {
+      "id": 383,
+      "vevo": "Jatri",
+      "kibocsajto": "Thoughtstorm",
+      "nOsszeg": 94477,
+      "fizHatDatum": "2019-07-29"
+    },
+    {
+      "id": 384,
+      "vevo": "Feedbug",
+      "kibocsajto": "Jaxworks",
+      "nOsszeg": 25204,
+      "fizHatDatum": "2020-05-17"
+    },
+    {
+      "id": 385,
+      "vevo": "Riffwire",
+      "kibocsajto": "Meedoo",
+      "nOsszeg": 90814,
+      "fizHatDatum": "2020-07-04"
+    },
+    {
+      "id": 386,
+      "vevo": "Eare",
+      "kibocsajto": "Feedfire",
+      "nOsszeg": 154999,
+      "fizHatDatum": "2019-09-09"
+    },
+    {
+      "id": 387,
+      "vevo": "Divavu",
+      "kibocsajto": "Demimbu",
+      "nOsszeg": 185409,
+      "fizHatDatum": "2019-10-06"
+    },
+    {
+      "id": 388,
+      "vevo": "Shufflester",
+      "kibocsajto": "Teklist",
+      "nOsszeg": 196810,
+      "fizHatDatum": "2019-12-10"
+    },
+    {
+      "id": 389,
+      "vevo": "Realcube",
+      "kibocsajto": "Realbridge",
+      "nOsszeg": 44810,
+      "fizHatDatum": "2019-07-26"
+    },
+    {
+      "id": 390,
+      "vevo": "Abata",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 237143,
+      "fizHatDatum": "2020-06-06"
+    },
+    {
+      "id": 391,
+      "vevo": "Jazzy",
+      "kibocsajto": "Flashset",
+      "nOsszeg": 208837,
+      "fizHatDatum": "2019-11-12"
+    },
+    {
+      "id": 392,
+      "vevo": "Realpoint",
+      "kibocsajto": "Bluezoom",
+      "nOsszeg": 136971,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 393,
+      "vevo": "Viva",
+      "kibocsajto": "Zoozzy",
+      "nOsszeg": 113043,
+      "fizHatDatum": "2020-01-27"
+    },
+    {
+      "id": 394,
+      "vevo": "Divape",
+      "kibocsajto": "Babbleset",
+      "nOsszeg": 206791,
+      "fizHatDatum": "2019-09-22"
+    },
+    {
+      "id": 395,
+      "vevo": "Dynava",
+      "kibocsajto": "Kazio",
+      "nOsszeg": 49459,
+      "fizHatDatum": "2020-05-18"
+    },
+    {
+      "id": 396,
+      "vevo": "Skibox",
+      "kibocsajto": "Fivebridge",
+      "nOsszeg": 171422,
+      "fizHatDatum": "2020-05-25"
+    },
+    {
+      "id": 397,
+      "vevo": "Avamba",
+      "kibocsajto": "Youopia",
+      "nOsszeg": 106485,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 398,
+      "vevo": "Brainlounge",
+      "kibocsajto": "Zava",
+      "nOsszeg": 138776,
+      "fizHatDatum": "2020-07-09"
+    },
+    {
+      "id": 399,
+      "vevo": "Kwilith",
+      "kibocsajto": "Devpulse",
+      "nOsszeg": 147102,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 400,
+      "vevo": "Tazz",
+      "kibocsajto": "Tagtune",
+      "nOsszeg": 47724,
+      "fizHatDatum": "2019-09-08"
+    },
+    {
+      "id": 401,
+      "vevo": "Dynava",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 72919,
+      "fizHatDatum": "2019-08-21"
+    },
+    {
+      "id": 402,
+      "vevo": "Pixope",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 230751,
+      "fizHatDatum": "2019-09-08"
+    },
+    {
+      "id": 403,
+      "vevo": "Kaymbo",
+      "kibocsajto": "Jaxnation",
+      "nOsszeg": 79213,
+      "fizHatDatum": "2019-08-09"
+    },
+    {
+      "id": 404,
+      "vevo": "Aibox",
+      "kibocsajto": "Topicblab",
+      "nOsszeg": 219443,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 405,
+      "vevo": "Omba",
+      "kibocsajto": "Oyoba",
+      "nOsszeg": 189488,
+      "fizHatDatum": "2020-06-08"
+    },
+    {
+      "id": 406,
+      "vevo": "Yakitri",
+      "kibocsajto": "Camido",
+      "nOsszeg": 155600,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 407,
+      "vevo": "Devpulse",
+      "kibocsajto": "Skyndu",
+      "nOsszeg": 222648,
+      "fizHatDatum": "2019-10-22"
+    },
+    {
+      "id": 408,
+      "vevo": "Rhynyx",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 168448,
+      "fizHatDatum": "2019-11-25"
+    },
+    {
+      "id": 409,
+      "vevo": "Innotype",
+      "kibocsajto": "Devbug",
+      "nOsszeg": 137190,
+      "fizHatDatum": "2019-12-23"
+    },
+    {
+      "id": 410,
+      "vevo": "Latz",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 158958,
+      "fizHatDatum": "2020-07-29"
+    },
+    {
+      "id": 411,
+      "vevo": "Blogspan",
+      "kibocsajto": "Babbleset",
+      "nOsszeg": 125266,
+      "fizHatDatum": "2019-10-06"
+    },
+    {
+      "id": 412,
+      "vevo": "Topicblab",
+      "kibocsajto": "Topicshots",
+      "nOsszeg": 21378,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 413,
+      "vevo": "Viva",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 236974,
+      "fizHatDatum": "2019-11-29"
+    },
+    {
+      "id": 414,
+      "vevo": "Dabjam",
+      "kibocsajto": "Vinte",
+      "nOsszeg": 144762,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 415,
+      "vevo": "Topicblab",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 201088,
+      "fizHatDatum": "2020-06-22"
+    },
+    {
+      "id": 416,
+      "vevo": "Youfeed",
+      "kibocsajto": "Skinte",
+      "nOsszeg": 149834,
+      "fizHatDatum": "2020-06-25"
+    },
+    {
+      "id": 417,
+      "vevo": "Jaxbean",
+      "kibocsajto": "Kamba",
+      "nOsszeg": 211376,
+      "fizHatDatum": "2019-06-25"
+    },
+    {
+      "id": 418,
+      "vevo": "Dabjam",
+      "kibocsajto": "Quinu",
+      "nOsszeg": 40199,
+      "fizHatDatum": "2020-03-17"
+    },
+    {
+      "id": 419,
+      "vevo": "Bubblebox",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 237645,
+      "fizHatDatum": "2020-01-21"
+    },
+    {
+      "id": 420,
+      "vevo": "Twiyo",
+      "kibocsajto": "Gevee",
+      "nOsszeg": 201667,
+      "fizHatDatum": "2020-05-23"
+    },
+    {
+      "id": 421,
+      "vevo": "Topicblab",
+      "kibocsajto": "Voomm",
+      "nOsszeg": 124664,
+      "fizHatDatum": "2019-12-17"
+    },
+    {
+      "id": 422,
+      "vevo": "Thoughtblab",
+      "kibocsajto": "Fivebridge",
+      "nOsszeg": 105141,
+      "fizHatDatum": "2019-08-17"
+    },
+    {
+      "id": 423,
+      "vevo": "Miboo",
+      "kibocsajto": "Bluezoom",
+      "nOsszeg": 234067,
+      "fizHatDatum": "2019-09-16"
+    },
+    {
+      "id": 424,
+      "vevo": "Dabjam",
+      "kibocsajto": "Twitterbridge",
+      "nOsszeg": 64334,
+      "fizHatDatum": "2019-08-11"
+    },
+    {
+      "id": 425,
+      "vevo": "Youfeed",
+      "kibocsajto": "Rhycero",
+      "nOsszeg": 15793,
+      "fizHatDatum": "2019-11-27"
+    },
+    {
+      "id": 426,
+      "vevo": "Bluezoom",
+      "kibocsajto": "Thoughtmix",
+      "nOsszeg": 188270,
+      "fizHatDatum": "2020-03-19"
+    },
+    {
+      "id": 427,
+      "vevo": "Snaptags",
+      "kibocsajto": "Dabvine",
+      "nOsszeg": 135172,
+      "fizHatDatum": "2019-08-29"
+    },
+    {
+      "id": 428,
+      "vevo": "Twitternation",
+      "kibocsajto": "Yakijo",
+      "nOsszeg": 45696,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 429,
+      "vevo": "Jabberstorm",
+      "kibocsajto": "Avavee",
+      "nOsszeg": 138848,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 430,
+      "vevo": "Skinder",
+      "kibocsajto": "Fivebridge",
+      "nOsszeg": 12306,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 431,
+      "vevo": "Katz",
+      "kibocsajto": "Gevee",
+      "nOsszeg": 106001,
+      "fizHatDatum": "2019-12-27"
+    },
+    {
+      "id": 432,
+      "vevo": "Edgepulse",
+      "kibocsajto": "Yodo",
+      "nOsszeg": 59221,
+      "fizHatDatum": "2019-12-17"
+    },
+    {
+      "id": 433,
+      "vevo": "Leenti",
+      "kibocsajto": "Flipstorm",
+      "nOsszeg": 221715,
+      "fizHatDatum": "2019-09-30"
+    },
+    {
+      "id": 434,
+      "vevo": "Rhyloo",
+      "kibocsajto": "Talane",
+      "nOsszeg": 85547,
+      "fizHatDatum": "2020-02-12"
+    },
+    {
+      "id": 435,
+      "vevo": "Meetz",
+      "kibocsajto": "Oyonder",
+      "nOsszeg": 247758,
+      "fizHatDatum": "2020-02-17"
+    },
+    {
+      "id": 436,
+      "vevo": "Lajo",
+      "kibocsajto": "Flashpoint",
+      "nOsszeg": 110760,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 437,
+      "vevo": "Muxo",
+      "kibocsajto": "Divavu",
+      "nOsszeg": 77352,
+      "fizHatDatum": "2019-10-07"
+    },
+    {
+      "id": 438,
+      "vevo": "JumpXS",
+      "kibocsajto": "Oba",
+      "nOsszeg": 102032,
+      "fizHatDatum": "2019-11-27"
+    },
+    {
+      "id": 439,
+      "vevo": "Voonyx",
+      "kibocsajto": "Wikibox",
+      "nOsszeg": 187038,
+      "fizHatDatum": "2020-04-27"
+    },
+    {
+      "id": 440,
+      "vevo": "Fivechat",
+      "kibocsajto": "Shufflester",
+      "nOsszeg": 200608,
+      "fizHatDatum": "2019-09-11"
+    },
+    {
+      "id": 441,
+      "vevo": "Tagfeed",
+      "kibocsajto": "Bluezoom",
+      "nOsszeg": 245190,
+      "fizHatDatum": "2020-02-12"
+    },
+    {
+      "id": 442,
+      "vevo": "Tagfeed",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 86867,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 443,
+      "vevo": "Twitternation",
+      "kibocsajto": "Buzzster",
+      "nOsszeg": 9376,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 444,
+      "vevo": "Jayo",
+      "kibocsajto": "Fivebridge",
+      "nOsszeg": 13350,
+      "fizHatDatum": "2019-10-01"
+    },
+    {
+      "id": 445,
+      "vevo": "Shufflebeat",
+      "kibocsajto": "Feednation",
+      "nOsszeg": 85544,
+      "fizHatDatum": "2019-10-04"
+    },
+    {
+      "id": 446,
+      "vevo": "Flipstorm",
+      "kibocsajto": "Oyoloo",
+      "nOsszeg": 53788,
+      "fizHatDatum": "2020-05-11"
+    },
+    {
+      "id": 447,
+      "vevo": "Avamm",
+      "kibocsajto": "Zazio",
+      "nOsszeg": 55463,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 448,
+      "vevo": "Mybuzz",
+      "kibocsajto": "Eazzy",
+      "nOsszeg": 160239,
+      "fizHatDatum": "2019-09-07"
+    },
+    {
+      "id": 449,
+      "vevo": "Bluejam",
+      "kibocsajto": "Zoozzy",
+      "nOsszeg": 61695,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 450,
+      "vevo": "Mycat",
+      "kibocsajto": "Divanoodle",
+      "nOsszeg": 88160,
+      "fizHatDatum": "2020-05-24"
+    },
+    {
+      "id": 451,
+      "vevo": "Photospace",
+      "kibocsajto": "Lazz",
+      "nOsszeg": 126407,
+      "fizHatDatum": "2020-02-09"
+    },
+    {
+      "id": 452,
+      "vevo": "Voonte",
+      "kibocsajto": "Dabshots",
+      "nOsszeg": 114637,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 453,
+      "vevo": "Eadel",
+      "kibocsajto": "Tagtune",
+      "nOsszeg": 183937,
+      "fizHatDatum": "2019-08-11"
+    },
+    {
+      "id": 454,
+      "vevo": "Yabox",
+      "kibocsajto": "Eayo",
+      "nOsszeg": 95077,
+      "fizHatDatum": "2019-09-02"
+    },
+    {
+      "id": 455,
+      "vevo": "Trudoo",
+      "kibocsajto": "Skilith",
+      "nOsszeg": 92073,
+      "fizHatDatum": "2019-12-19"
+    },
+    {
+      "id": 456,
+      "vevo": "Skajo",
+      "kibocsajto": "Browseblab",
+      "nOsszeg": 54519,
+      "fizHatDatum": "2019-12-16"
+    },
+    {
+      "id": 457,
+      "vevo": "Wikizz",
+      "kibocsajto": "Ailane",
+      "nOsszeg": 11516,
+      "fizHatDatum": "2019-08-18"
+    },
+    {
+      "id": 458,
+      "vevo": "Edgewire",
+      "kibocsajto": "Yakijo",
+      "nOsszeg": 129218,
+      "fizHatDatum": "2020-02-01"
+    },
+    {
+      "id": 459,
+      "vevo": "Zoonoodle",
+      "kibocsajto": "Tekfly",
+      "nOsszeg": 89821,
+      "fizHatDatum": "2019-08-09"
+    },
+    {
+      "id": 460,
+      "vevo": "Abatz",
+      "kibocsajto": "Kare",
+      "nOsszeg": 93765,
+      "fizHatDatum": "2020-04-06"
+    },
+    {
+      "id": 461,
+      "vevo": "Livetube",
+      "kibocsajto": "Fivespan",
+      "nOsszeg": 47063,
+      "fizHatDatum": "2019-08-17"
+    },
+    {
+      "id": 462,
+      "vevo": "Quatz",
+      "kibocsajto": "Meedoo",
+      "nOsszeg": 130293,
+      "fizHatDatum": "2019-12-09"
+    },
+    {
+      "id": 463,
+      "vevo": "Reallinks",
+      "kibocsajto": "Yacero",
+      "nOsszeg": 145859,
+      "fizHatDatum": "2019-08-06"
+    },
+    {
+      "id": 464,
+      "vevo": "Thoughtworks",
+      "kibocsajto": "Thoughtbeat",
+      "nOsszeg": 220837,
+      "fizHatDatum": "2019-10-11"
+    },
+    {
+      "id": 465,
+      "vevo": "Photobug",
+      "kibocsajto": "Jabbercube",
+      "nOsszeg": 70126,
+      "fizHatDatum": "2020-05-18"
+    },
+    {
+      "id": 466,
+      "vevo": "Twinder",
+      "kibocsajto": "Voonix",
+      "nOsszeg": 201487,
+      "fizHatDatum": "2020-02-18"
+    },
+    {
+      "id": 467,
+      "vevo": "Rhynyx",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 84279,
+      "fizHatDatum": "2019-11-07"
+    },
+    {
+      "id": 468,
+      "vevo": "Digitube",
+      "kibocsajto": "Zoovu",
+      "nOsszeg": 249675,
+      "fizHatDatum": "2019-12-04"
+    },
+    {
+      "id": 469,
+      "vevo": "Kayveo",
+      "kibocsajto": "Browsecat",
+      "nOsszeg": 229064,
+      "fizHatDatum": "2019-06-27"
+    },
+    {
+      "id": 470,
+      "vevo": "Snaptags",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 24335,
+      "fizHatDatum": "2019-11-09"
+    },
+    {
+      "id": 471,
+      "vevo": "Skinix",
+      "kibocsajto": "Avaveo",
+      "nOsszeg": 6725,
+      "fizHatDatum": "2020-04-29"
+    },
+    {
+      "id": 472,
+      "vevo": "Livefish",
+      "kibocsajto": "Twitterwire",
+      "nOsszeg": 189897,
+      "fizHatDatum": "2020-03-24"
+    },
+    {
+      "id": 473,
+      "vevo": "Jaxspan",
+      "kibocsajto": "Dazzlesphere",
+      "nOsszeg": 70497,
+      "fizHatDatum": "2020-01-12"
+    },
+    {
+      "id": 474,
+      "vevo": "Feedfire",
+      "kibocsajto": "Yabox",
+      "nOsszeg": 93597,
+      "fizHatDatum": "2019-09-11"
+    },
+    {
+      "id": 475,
+      "vevo": "Trudeo",
+      "kibocsajto": "Thoughtbeat",
+      "nOsszeg": 248744,
+      "fizHatDatum": "2019-07-09"
+    },
+    {
+      "id": 476,
+      "vevo": "Cogidoo",
+      "kibocsajto": "Yakitri",
+      "nOsszeg": 162980,
+      "fizHatDatum": "2020-01-22"
+    },
+    {
+      "id": 477,
+      "vevo": "Abata",
+      "kibocsajto": "Avavee",
+      "nOsszeg": 109311,
+      "fizHatDatum": "2020-02-29"
+    },
+    {
+      "id": 478,
+      "vevo": "Chatterpoint",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 39663,
+      "fizHatDatum": "2019-11-28"
+    },
+    {
+      "id": 479,
+      "vevo": "Buzzdog",
+      "kibocsajto": "Twimm",
+      "nOsszeg": 172352,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 480,
+      "vevo": "Skajo",
+      "kibocsajto": "Kwilith",
+      "nOsszeg": 236990,
+      "fizHatDatum": "2019-06-29"
+    },
+    {
+      "id": 481,
+      "vevo": "Abatz",
+      "kibocsajto": "Vidoo",
+      "nOsszeg": 200118,
+      "fizHatDatum": "2020-03-18"
+    },
+    {
+      "id": 482,
+      "vevo": "Camimbo",
+      "kibocsajto": "Yadel",
+      "nOsszeg": 225503,
+      "fizHatDatum": "2019-11-23"
+    },
+    {
+      "id": 483,
+      "vevo": "Mydeo",
+      "kibocsajto": "Meevee",
+      "nOsszeg": 4605,
+      "fizHatDatum": "2020-05-27"
+    },
+    {
+      "id": 484,
+      "vevo": "Brainverse",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 183755,
+      "fizHatDatum": "2020-03-08"
+    },
+    {
+      "id": 485,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Kayveo",
+      "nOsszeg": 141056,
+      "fizHatDatum": "2019-12-03"
+    },
+    {
+      "id": 486,
+      "vevo": "Reallinks",
+      "kibocsajto": "Twimbo",
+      "nOsszeg": 231126,
+      "fizHatDatum": "2020-07-28"
+    },
+    {
+      "id": 487,
+      "vevo": "Quimba",
+      "kibocsajto": "Zoonoodle",
+      "nOsszeg": 103444,
+      "fizHatDatum": "2019-08-25"
+    },
+    {
+      "id": 488,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 176252,
+      "fizHatDatum": "2019-09-02"
+    },
+    {
+      "id": 489,
+      "vevo": "Bluezoom",
+      "kibocsajto": "Divanoodle",
+      "nOsszeg": 172563,
+      "fizHatDatum": "2019-08-13"
+    },
+    {
+      "id": 490,
+      "vevo": "Aimbu",
+      "kibocsajto": "Meevee",
+      "nOsszeg": 121406,
+      "fizHatDatum": "2020-05-01"
+    },
+    {
+      "id": 491,
+      "vevo": "Trilith",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 50956,
+      "fizHatDatum": "2020-06-17"
+    },
+    {
+      "id": 492,
+      "vevo": "Youfeed",
+      "kibocsajto": "Twitterlist",
+      "nOsszeg": 178533,
+      "fizHatDatum": "2020-02-22"
+    },
+    {
+      "id": 493,
+      "vevo": "Skynoodle",
+      "kibocsajto": "Skipstorm",
+      "nOsszeg": 97126,
+      "fizHatDatum": "2020-07-28"
+    },
+    {
+      "id": 494,
+      "vevo": "Babbleset",
+      "kibocsajto": "Katz",
+      "nOsszeg": 13108,
+      "fizHatDatum": "2020-01-26"
+    },
+    {
+      "id": 495,
+      "vevo": "Ailane",
+      "kibocsajto": "Flashspan",
+      "nOsszeg": 246873,
+      "fizHatDatum": "2019-09-10"
+    },
+    {
+      "id": 496,
+      "vevo": "Pixope",
+      "kibocsajto": "Twitternation",
+      "nOsszeg": 231941,
+      "fizHatDatum": "2019-06-28"
+    },
+    {
+      "id": 497,
+      "vevo": "Skyba",
+      "kibocsajto": "Gabtune",
+      "nOsszeg": 200605,
+      "fizHatDatum": "2019-07-21"
+    },
+    {
+      "id": 498,
+      "vevo": "LiveZ",
+      "kibocsajto": "Tanoodle",
+      "nOsszeg": 243250,
+      "fizHatDatum": "2019-08-17"
+    },
+    {
+      "id": 499,
+      "vevo": "Wordtune",
+      "kibocsajto": "Buzzshare",
+      "nOsszeg": 198733,
+      "fizHatDatum": "2020-02-01"
+    },
+    {
+      "id": 500,
+      "vevo": "Eire",
+      "kibocsajto": "Centidel",
+      "nOsszeg": 98398,
+      "fizHatDatum": "2019-07-05"
+    },
+    {
+      "id": 501,
+      "vevo": "Buzzbean",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 194836,
+      "fizHatDatum": "2020-06-07"
+    },
+    {
+      "id": 502,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Realmix",
+      "nOsszeg": 45390,
+      "fizHatDatum": "2019-11-21"
+    },
+    {
+      "id": 503,
+      "vevo": "Gabtune",
+      "kibocsajto": "Buzzbean",
+      "nOsszeg": 83652,
+      "fizHatDatum": "2019-07-28"
+    },
+    {
+      "id": 504,
+      "vevo": "Myworks",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 90240,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 505,
+      "vevo": "Thoughtblab",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 97002,
+      "fizHatDatum": "2019-09-02"
+    },
+    {
+      "id": 506,
+      "vevo": "Skimia",
+      "kibocsajto": "Skipstorm",
+      "nOsszeg": 97602,
+      "fizHatDatum": "2019-12-17"
+    },
+    {
+      "id": 507,
+      "vevo": "Myworks",
+      "kibocsajto": "Leenti",
+      "nOsszeg": 109172,
+      "fizHatDatum": "2019-07-24"
+    },
+    {
+      "id": 508,
+      "vevo": "Photospace",
+      "kibocsajto": "Jaxbean",
+      "nOsszeg": 186006,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 509,
+      "vevo": "Aivee",
+      "kibocsajto": "Skivee",
+      "nOsszeg": 90016,
+      "fizHatDatum": "2019-08-08"
+    },
+    {
+      "id": 510,
+      "vevo": "DabZ",
+      "kibocsajto": "Izio",
+      "nOsszeg": 133363,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 511,
+      "vevo": "Voolia",
+      "kibocsajto": "Jazzy",
+      "nOsszeg": 11242,
+      "fizHatDatum": "2019-11-19"
+    },
+    {
+      "id": 512,
+      "vevo": "Blogpad",
+      "kibocsajto": "Jetpulse",
+      "nOsszeg": 63391,
+      "fizHatDatum": "2019-10-14"
+    },
+    {
+      "id": 513,
+      "vevo": "Photolist",
+      "kibocsajto": "Skinte",
+      "nOsszeg": 148282,
+      "fizHatDatum": "2020-06-07"
+    },
+    {
+      "id": 514,
+      "vevo": "Riffpath",
+      "kibocsajto": "Babblestorm",
+      "nOsszeg": 183486,
+      "fizHatDatum": "2019-08-16"
+    },
+    {
+      "id": 515,
+      "vevo": "Centidel",
+      "kibocsajto": "Shufflebeat",
+      "nOsszeg": 210378,
+      "fizHatDatum": "2019-10-10"
+    },
+    {
+      "id": 516,
+      "vevo": "Yakitri",
+      "kibocsajto": "Zooxo",
+      "nOsszeg": 33989,
+      "fizHatDatum": "2019-11-05"
+    },
+    {
+      "id": 517,
+      "vevo": "Thoughtstorm",
+      "kibocsajto": "Blogpad",
+      "nOsszeg": 21351,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 518,
+      "vevo": "Katz",
+      "kibocsajto": "Podcat",
+      "nOsszeg": 134078,
+      "fizHatDatum": "2020-06-09"
+    },
+    {
+      "id": 519,
+      "vevo": "Eidel",
+      "kibocsajto": "Eayo",
+      "nOsszeg": 167198,
+      "fizHatDatum": "2020-01-27"
+    },
+    {
+      "id": 520,
+      "vevo": "Yotz",
+      "kibocsajto": "Zazio",
+      "nOsszeg": 230314,
+      "fizHatDatum": "2019-12-08"
+    },
+    {
+      "id": 521,
+      "vevo": "Jabbertype",
+      "kibocsajto": "Camimbo",
+      "nOsszeg": 13252,
+      "fizHatDatum": "2019-10-05"
+    },
+    {
+      "id": 522,
+      "vevo": "Meeveo",
+      "kibocsajto": "Cogibox",
+      "nOsszeg": 199903,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 523,
+      "vevo": "Mynte",
+      "kibocsajto": "Oyoyo",
+      "nOsszeg": 167285,
+      "fizHatDatum": "2020-05-24"
+    },
+    {
+      "id": 524,
+      "vevo": "Ntag",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 68673,
+      "fizHatDatum": "2020-01-04"
+    },
+    {
+      "id": 525,
+      "vevo": "Quaxo",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 137295,
+      "fizHatDatum": "2019-10-16"
+    },
+    {
+      "id": 526,
+      "vevo": "Kare",
+      "kibocsajto": "Flipstorm",
+      "nOsszeg": 45537,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 527,
+      "vevo": "Mynte",
+      "kibocsajto": "Avamm",
+      "nOsszeg": 229876,
+      "fizHatDatum": "2020-01-12"
+    },
+    {
+      "id": 528,
+      "vevo": "Skyble",
+      "kibocsajto": "Devshare",
+      "nOsszeg": 206266,
+      "fizHatDatum": "2019-11-13"
+    },
+    {
+      "id": 529,
+      "vevo": "Cogidoo",
+      "kibocsajto": "Eadel",
+      "nOsszeg": 216403,
+      "fizHatDatum": "2019-11-13"
+    },
+    {
+      "id": 530,
+      "vevo": "Zoomzone",
+      "kibocsajto": "Yamia",
+      "nOsszeg": 25885,
+      "fizHatDatum": "2020-06-27"
+    },
+    {
+      "id": 531,
+      "vevo": "Dabvine",
+      "kibocsajto": "Photofeed",
+      "nOsszeg": 89568,
+      "fizHatDatum": "2019-11-06"
+    },
+    {
+      "id": 532,
+      "vevo": "Yamia",
+      "kibocsajto": "Kwideo",
+      "nOsszeg": 140016,
+      "fizHatDatum": "2019-07-02"
+    },
+    {
+      "id": 533,
+      "vevo": "Feedmix",
+      "kibocsajto": "Plajo",
+      "nOsszeg": 153317,
+      "fizHatDatum": "2019-08-24"
+    },
+    {
+      "id": 534,
+      "vevo": "Riffpath",
+      "kibocsajto": "Yambee",
+      "nOsszeg": 20011,
+      "fizHatDatum": "2020-05-26"
+    },
+    {
+      "id": 535,
+      "vevo": "Photojam",
+      "kibocsajto": "Feedmix",
+      "nOsszeg": 146079,
+      "fizHatDatum": "2019-07-02"
+    },
+    {
+      "id": 536,
+      "vevo": "Browsetype",
+      "kibocsajto": "Geba",
+      "nOsszeg": 48303,
+      "fizHatDatum": "2019-11-13"
+    },
+    {
+      "id": 537,
+      "vevo": "Kimia",
+      "kibocsajto": "Ntags",
+      "nOsszeg": 35692,
+      "fizHatDatum": "2020-05-17"
+    },
+    {
+      "id": 538,
+      "vevo": "Eayo",
+      "kibocsajto": "Jabberbean",
+      "nOsszeg": 102773,
+      "fizHatDatum": "2020-01-16"
+    },
+    {
+      "id": 539,
+      "vevo": "Meezzy",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 59197,
+      "fizHatDatum": "2019-09-12"
+    },
+    {
+      "id": 540,
+      "vevo": "Centizu",
+      "kibocsajto": "Linkbridge",
+      "nOsszeg": 162681,
+      "fizHatDatum": "2020-02-08"
+    },
+    {
+      "id": 541,
+      "vevo": "Skinder",
+      "kibocsajto": "Flashset",
+      "nOsszeg": 135102,
+      "fizHatDatum": "2019-12-12"
+    },
+    {
+      "id": 542,
+      "vevo": "Gigaclub",
+      "kibocsajto": "Jatri",
+      "nOsszeg": 35690,
+      "fizHatDatum": "2020-04-01"
+    },
+    {
+      "id": 543,
+      "vevo": "Tekfly",
+      "kibocsajto": "Realbuzz",
+      "nOsszeg": 146049,
+      "fizHatDatum": "2019-07-31"
+    },
+    {
+      "id": 544,
+      "vevo": "Skinder",
+      "kibocsajto": "Mycat",
+      "nOsszeg": 206174,
+      "fizHatDatum": "2019-11-26"
+    },
+    {
+      "id": 545,
+      "vevo": "Kare",
+      "kibocsajto": "Fivechat",
+      "nOsszeg": 206055,
+      "fizHatDatum": "2019-11-09"
+    },
+    {
+      "id": 546,
+      "vevo": "Shuffletag",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 16412,
+      "fizHatDatum": "2020-06-28"
+    },
+    {
+      "id": 547,
+      "vevo": "Edgeify",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 195387,
+      "fizHatDatum": "2020-06-29"
+    },
+    {
+      "id": 548,
+      "vevo": "Vimbo",
+      "kibocsajto": "Youfeed",
+      "nOsszeg": 108938,
+      "fizHatDatum": "2019-09-20"
+    },
+    {
+      "id": 549,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Edgetag",
+      "nOsszeg": 84428,
+      "fizHatDatum": "2019-09-21"
+    },
+    {
+      "id": 550,
+      "vevo": "Katz",
+      "kibocsajto": "Oozz",
+      "nOsszeg": 30841,
+      "fizHatDatum": "2019-09-27"
+    },
+    {
+      "id": 551,
+      "vevo": "Livetube",
+      "kibocsajto": "Minyx",
+      "nOsszeg": 38837,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 552,
+      "vevo": "Quimm",
+      "kibocsajto": "Gabcube",
+      "nOsszeg": 87528,
+      "fizHatDatum": "2020-04-15"
+    },
+    {
+      "id": 553,
+      "vevo": "Divavu",
+      "kibocsajto": "Zoomdog",
+      "nOsszeg": 51147,
+      "fizHatDatum": "2019-07-14"
+    },
+    {
+      "id": 554,
+      "vevo": "Thoughtmix",
+      "kibocsajto": "Avamm",
+      "nOsszeg": 196362,
+      "fizHatDatum": "2020-04-17"
+    },
+    {
+      "id": 555,
+      "vevo": "Muxo",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 85563,
+      "fizHatDatum": "2019-11-04"
+    },
+    {
+      "id": 556,
+      "vevo": "Wordify",
+      "kibocsajto": "Dabjam",
+      "nOsszeg": 245589,
+      "fizHatDatum": "2020-05-01"
+    },
+    {
+      "id": 557,
+      "vevo": "Photobug",
+      "kibocsajto": "Jetwire",
+      "nOsszeg": 192685,
+      "fizHatDatum": "2019-07-10"
+    },
+    {
+      "id": 558,
+      "vevo": "Tagcat",
+      "kibocsajto": "Aimbu",
+      "nOsszeg": 76588,
+      "fizHatDatum": "2019-12-08"
+    },
+    {
+      "id": 559,
+      "vevo": "Skyble",
+      "kibocsajto": "Chatterbridge",
+      "nOsszeg": 132020,
+      "fizHatDatum": "2020-02-16"
+    },
+    {
+      "id": 560,
+      "vevo": "Kwilith",
+      "kibocsajto": "Rooxo",
+      "nOsszeg": 175444,
+      "fizHatDatum": "2020-03-08"
+    },
+    {
+      "id": 561,
+      "vevo": "Jaloo",
+      "kibocsajto": "Eire",
+      "nOsszeg": 19063,
+      "fizHatDatum": "2019-07-23"
+    },
+    {
+      "id": 562,
+      "vevo": "Jabberbean",
+      "kibocsajto": "Jaxnation",
+      "nOsszeg": 19960,
+      "fizHatDatum": "2019-07-29"
+    },
+    {
+      "id": 563,
+      "vevo": "Ozu",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 96842,
+      "fizHatDatum": "2020-03-29"
+    },
+    {
+      "id": 564,
+      "vevo": "Tazzy",
+      "kibocsajto": "Linkbuzz",
+      "nOsszeg": 126391,
+      "fizHatDatum": "2020-05-28"
+    },
+    {
+      "id": 565,
+      "vevo": "Flashdog",
+      "kibocsajto": "Babblestorm",
+      "nOsszeg": 96367,
+      "fizHatDatum": "2020-03-02"
+    },
+    {
+      "id": 566,
+      "vevo": "Topdrive",
+      "kibocsajto": "Youspan",
+      "nOsszeg": 92156,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 567,
+      "vevo": "Realcube",
+      "kibocsajto": "Tazzy",
+      "nOsszeg": 7155,
+      "fizHatDatum": "2019-09-08"
+    },
+    {
+      "id": 568,
+      "vevo": "Yombu",
+      "kibocsajto": "Rhybox",
+      "nOsszeg": 64548,
+      "fizHatDatum": "2019-08-14"
+    },
+    {
+      "id": 569,
+      "vevo": "Oyoyo",
+      "kibocsajto": "Tagopia",
+      "nOsszeg": 241041,
+      "fizHatDatum": "2019-07-25"
+    },
+    {
+      "id": 570,
+      "vevo": "Wordware",
+      "kibocsajto": "Oodoo",
+      "nOsszeg": 26240,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 571,
+      "vevo": "Rhynoodle",
+      "kibocsajto": "Kwimbee",
+      "nOsszeg": 16561,
+      "fizHatDatum": "2020-02-23"
+    },
+    {
+      "id": 572,
+      "vevo": "Devbug",
+      "kibocsajto": "Mymm",
+      "nOsszeg": 159053,
+      "fizHatDatum": "2019-11-02"
+    },
+    {
+      "id": 573,
+      "vevo": "Eayo",
+      "kibocsajto": "Yata",
+      "nOsszeg": 79097,
+      "fizHatDatum": "2020-06-25"
+    },
+    {
+      "id": 574,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Eimbee",
+      "nOsszeg": 213971,
+      "fizHatDatum": "2019-08-08"
+    },
+    {
+      "id": 575,
+      "vevo": "Feedfish",
+      "kibocsajto": "Meeveo",
+      "nOsszeg": 206430,
+      "fizHatDatum": "2019-08-30"
+    },
+    {
+      "id": 576,
+      "vevo": "Twitterlist",
+      "kibocsajto": "Camido",
+      "nOsszeg": 231178,
+      "fizHatDatum": "2020-02-28"
+    },
+    {
+      "id": 577,
+      "vevo": "Twitternation",
+      "kibocsajto": "Meevee",
+      "nOsszeg": 86281,
+      "fizHatDatum": "2020-01-15"
+    },
+    {
+      "id": 578,
+      "vevo": "Realblab",
+      "kibocsajto": "Plambee",
+      "nOsszeg": 166430,
+      "fizHatDatum": "2019-10-02"
+    },
+    {
+      "id": 579,
+      "vevo": "Tazz",
+      "kibocsajto": "Gabcube",
+      "nOsszeg": 200035,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 580,
+      "vevo": "Cogilith",
+      "kibocsajto": "Avamm",
+      "nOsszeg": 125044,
+      "fizHatDatum": "2020-02-15"
+    },
+    {
+      "id": 581,
+      "vevo": "Rhynoodle",
+      "kibocsajto": "BlogXS",
+      "nOsszeg": 83995,
+      "fizHatDatum": "2019-10-06"
+    },
+    {
+      "id": 582,
+      "vevo": "Roodel",
+      "kibocsajto": "Jaxspan",
+      "nOsszeg": 52095,
+      "fizHatDatum": "2020-04-16"
+    },
+    {
+      "id": 583,
+      "vevo": "Vimbo",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 100238,
+      "fizHatDatum": "2020-04-22"
+    },
+    {
+      "id": 584,
+      "vevo": "Meetz",
+      "kibocsajto": "Flipbug",
+      "nOsszeg": 139994,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 585,
+      "vevo": "Ozu",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 236496,
+      "fizHatDatum": "2020-06-30"
+    },
+    {
+      "id": 586,
+      "vevo": "Youtags",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 225107,
+      "fizHatDatum": "2019-10-12"
+    },
+    {
+      "id": 587,
+      "vevo": "Viva",
+      "kibocsajto": "Buzzshare",
+      "nOsszeg": 3233,
+      "fizHatDatum": "2019-11-21"
+    },
+    {
+      "id": 588,
+      "vevo": "Skibox",
+      "kibocsajto": "Latz",
+      "nOsszeg": 117667,
+      "fizHatDatum": "2020-01-06"
+    },
+    {
+      "id": 589,
+      "vevo": "Jayo",
+      "kibocsajto": "Babblestorm",
+      "nOsszeg": 136995,
+      "fizHatDatum": "2019-10-09"
+    },
+    {
+      "id": 590,
+      "vevo": "Mybuzz",
+      "kibocsajto": "Fivespan",
+      "nOsszeg": 237452,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 591,
+      "vevo": "Shufflester",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 141191,
+      "fizHatDatum": "2019-06-26"
+    },
+    {
+      "id": 592,
+      "vevo": "Voonix",
+      "kibocsajto": "Photobean",
+      "nOsszeg": 181789,
+      "fizHatDatum": "2019-08-23"
+    },
+    {
+      "id": 593,
+      "vevo": "Viva",
+      "kibocsajto": "Thoughtblab",
+      "nOsszeg": 149863,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 594,
+      "vevo": "Nlounge",
+      "kibocsajto": "Skinder",
+      "nOsszeg": 208860,
+      "fizHatDatum": "2019-07-16"
+    },
+    {
+      "id": 595,
+      "vevo": "Kanoodle",
+      "kibocsajto": "Bubblemix",
+      "nOsszeg": 72111,
+      "fizHatDatum": "2020-07-02"
+    },
+    {
+      "id": 596,
+      "vevo": "Feedfire",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 146303,
+      "fizHatDatum": "2020-05-08"
+    },
+    {
+      "id": 597,
+      "vevo": "Vidoo",
+      "kibocsajto": "Thoughtsphere",
+      "nOsszeg": 205830,
+      "fizHatDatum": "2020-06-04"
+    },
+    {
+      "id": 598,
+      "vevo": "Skimia",
+      "kibocsajto": "Plajo",
+      "nOsszeg": 94478,
+      "fizHatDatum": "2019-07-16"
+    },
+    {
+      "id": 599,
+      "vevo": "Skiptube",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 189108,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 600,
+      "vevo": "Roomm",
+      "kibocsajto": "Zoovu",
+      "nOsszeg": 27035,
+      "fizHatDatum": "2020-01-27"
+    },
+    {
+      "id": 601,
+      "vevo": "Gevee",
+      "kibocsajto": "Shufflebeat",
+      "nOsszeg": 197543,
+      "fizHatDatum": "2019-09-19"
+    },
+    {
+      "id": 602,
+      "vevo": "Livetube",
+      "kibocsajto": "Dabjam",
+      "nOsszeg": 173650,
+      "fizHatDatum": "2019-09-14"
+    },
+    {
+      "id": 603,
+      "vevo": "Yacero",
+      "kibocsajto": "Jetpulse",
+      "nOsszeg": 109099,
+      "fizHatDatum": "2019-08-27"
+    },
+    {
+      "id": 604,
+      "vevo": "Linktype",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 33045,
+      "fizHatDatum": "2020-01-28"
+    },
+    {
+      "id": 605,
+      "vevo": "Voomm",
+      "kibocsajto": "Jayo",
+      "nOsszeg": 57111,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 606,
+      "vevo": "Wikizz",
+      "kibocsajto": "Dabfeed",
+      "nOsszeg": 125824,
+      "fizHatDatum": "2020-02-08"
+    },
+    {
+      "id": 607,
+      "vevo": "Devshare",
+      "kibocsajto": "Skippad",
+      "nOsszeg": 32260,
+      "fizHatDatum": "2019-08-22"
+    },
+    {
+      "id": 608,
+      "vevo": "Demivee",
+      "kibocsajto": "Abata",
+      "nOsszeg": 121697,
+      "fizHatDatum": "2020-07-07"
+    },
+    {
+      "id": 609,
+      "vevo": "Riffwire",
+      "kibocsajto": "Katz",
+      "nOsszeg": 88047,
+      "fizHatDatum": "2019-12-05"
+    },
+    {
+      "id": 610,
+      "vevo": "Kare",
+      "kibocsajto": "Yotz",
+      "nOsszeg": 179106,
+      "fizHatDatum": "2020-03-27"
+    },
+    {
+      "id": 611,
+      "vevo": "Oba",
+      "kibocsajto": "Realbridge",
+      "nOsszeg": 77138,
+      "fizHatDatum": "2020-01-23"
+    },
+    {
+      "id": 612,
+      "vevo": "Lazz",
+      "kibocsajto": "Miboo",
+      "nOsszeg": 97665,
+      "fizHatDatum": "2019-11-18"
+    },
+    {
+      "id": 613,
+      "vevo": "Topicshots",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 173301,
+      "fizHatDatum": "2020-01-29"
+    },
+    {
+      "id": 614,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Myworks",
+      "nOsszeg": 147785,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 615,
+      "vevo": "Abatz",
+      "kibocsajto": "Dabjam",
+      "nOsszeg": 127368,
+      "fizHatDatum": "2020-05-27"
+    },
+    {
+      "id": 616,
+      "vevo": "Mydeo",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 238906,
+      "fizHatDatum": "2020-03-07"
+    },
+    {
+      "id": 617,
+      "vevo": "Jaxspan",
+      "kibocsajto": "Quaxo",
+      "nOsszeg": 199678,
+      "fizHatDatum": "2019-12-25"
+    },
+    {
+      "id": 618,
+      "vevo": "Realfire",
+      "kibocsajto": "Agimba",
+      "nOsszeg": 117996,
+      "fizHatDatum": "2019-10-17"
+    },
+    {
+      "id": 619,
+      "vevo": "Buzzshare",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 77119,
+      "fizHatDatum": "2020-06-24"
+    },
+    {
+      "id": 620,
+      "vevo": "Youspan",
+      "kibocsajto": "Mydeo",
+      "nOsszeg": 34070,
+      "fizHatDatum": "2019-12-15"
+    },
+    {
+      "id": 621,
+      "vevo": "Twinte",
+      "kibocsajto": "Jabbersphere",
+      "nOsszeg": 190430,
+      "fizHatDatum": "2019-07-06"
+    },
+    {
+      "id": 622,
+      "vevo": "Plajo",
+      "kibocsajto": "Browseblab",
+      "nOsszeg": 240216,
+      "fizHatDatum": "2019-09-29"
+    },
+    {
+      "id": 623,
+      "vevo": "Riffwire",
+      "kibocsajto": "Voonte",
+      "nOsszeg": 197802,
+      "fizHatDatum": "2019-07-27"
+    },
+    {
+      "id": 624,
+      "vevo": "JumpXS",
+      "kibocsajto": "Tanoodle",
+      "nOsszeg": 3839,
+      "fizHatDatum": "2019-09-24"
+    },
+    {
+      "id": 625,
+      "vevo": "Skyndu",
+      "kibocsajto": "Buzzbean",
+      "nOsszeg": 37416,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 626,
+      "vevo": "Zooveo",
+      "kibocsajto": "Kayveo",
+      "nOsszeg": 18199,
+      "fizHatDatum": "2020-01-18"
+    },
+    {
+      "id": 627,
+      "vevo": "Geba",
+      "kibocsajto": "Zoomdog",
+      "nOsszeg": 40559,
+      "fizHatDatum": "2020-06-06"
+    },
+    {
+      "id": 628,
+      "vevo": "Twitterwire",
+      "kibocsajto": "Brightdog",
+      "nOsszeg": 194908,
+      "fizHatDatum": "2020-01-16"
+    },
+    {
+      "id": 629,
+      "vevo": "Trilia",
+      "kibocsajto": "Ntags",
+      "nOsszeg": 68143,
+      "fizHatDatum": "2019-11-29"
+    },
+    {
+      "id": 630,
+      "vevo": "Thoughtbridge",
+      "kibocsajto": "Zava",
+      "nOsszeg": 199879,
+      "fizHatDatum": "2019-07-19"
+    },
+    {
+      "id": 631,
+      "vevo": "Agivu",
+      "kibocsajto": "Twitterbridge",
+      "nOsszeg": 175527,
+      "fizHatDatum": "2019-11-30"
+    },
+    {
+      "id": 632,
+      "vevo": "Trupe",
+      "kibocsajto": "Devcast",
+      "nOsszeg": 21190,
+      "fizHatDatum": "2020-02-01"
+    },
+    {
+      "id": 633,
+      "vevo": "Livepath",
+      "kibocsajto": "Tazzy",
+      "nOsszeg": 18603,
+      "fizHatDatum": "2019-10-24"
+    },
+    {
+      "id": 634,
+      "vevo": "Trilith",
+      "kibocsajto": "Edgewire",
+      "nOsszeg": 207683,
+      "fizHatDatum": "2019-12-02"
+    },
+    {
+      "id": 635,
+      "vevo": "Voomm",
+      "kibocsajto": "Youtags",
+      "nOsszeg": 17539,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 636,
+      "vevo": "Oyope",
+      "kibocsajto": "Yotz",
+      "nOsszeg": 119283,
+      "fizHatDatum": "2020-04-27"
+    },
+    {
+      "id": 637,
+      "vevo": "Devify",
+      "kibocsajto": "Quaxo",
+      "nOsszeg": 125266,
+      "fizHatDatum": "2019-12-07"
+    },
+    {
+      "id": 638,
+      "vevo": "Tanoodle",
+      "kibocsajto": "Brainlounge",
+      "nOsszeg": 118316,
+      "fizHatDatum": "2019-10-24"
+    },
+    {
+      "id": 639,
+      "vevo": "Dynabox",
+      "kibocsajto": "Blogspan",
+      "nOsszeg": 146655,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 640,
+      "vevo": "Voomm",
+      "kibocsajto": "Meejo",
+      "nOsszeg": 200369,
+      "fizHatDatum": "2020-04-06"
+    },
+    {
+      "id": 641,
+      "vevo": "Buzzbean",
+      "kibocsajto": "Livetube",
+      "nOsszeg": 31691,
+      "fizHatDatum": "2019-10-17"
+    },
+    {
+      "id": 642,
+      "vevo": "Gabtune",
+      "kibocsajto": "Brainverse",
+      "nOsszeg": 40182,
+      "fizHatDatum": "2020-07-30"
+    },
+    {
+      "id": 643,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Divape",
+      "nOsszeg": 52441,
+      "fizHatDatum": "2020-04-21"
+    },
+    {
+      "id": 644,
+      "vevo": "Tagcat",
+      "kibocsajto": "Skivee",
+      "nOsszeg": 146635,
+      "fizHatDatum": "2020-07-06"
+    },
+    {
+      "id": 645,
+      "vevo": "Tagcat",
+      "kibocsajto": "Kazio",
+      "nOsszeg": 206289,
+      "fizHatDatum": "2019-07-14"
+    },
+    {
+      "id": 646,
+      "vevo": "Jatri",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 155696,
+      "fizHatDatum": "2020-01-26"
+    },
+    {
+      "id": 647,
+      "vevo": "Babbleset",
+      "kibocsajto": "Skiba",
+      "nOsszeg": 134248,
+      "fizHatDatum": "2019-11-04"
+    },
+    {
+      "id": 648,
+      "vevo": "Skivee",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 243780,
+      "fizHatDatum": "2019-11-07"
+    },
+    {
+      "id": 649,
+      "vevo": "Trudoo",
+      "kibocsajto": "Riffpedia",
+      "nOsszeg": 156146,
+      "fizHatDatum": "2019-09-23"
+    },
+    {
+      "id": 650,
+      "vevo": "Photobug",
+      "kibocsajto": "Fliptune",
+      "nOsszeg": 203982,
+      "fizHatDatum": "2020-03-26"
+    },
+    {
+      "id": 651,
+      "vevo": "Gabspot",
+      "kibocsajto": "Yakidoo",
+      "nOsszeg": 183658,
+      "fizHatDatum": "2019-10-25"
+    },
+    {
+      "id": 652,
+      "vevo": "Riffpath",
+      "kibocsajto": "Twitterbridge",
+      "nOsszeg": 213431,
+      "fizHatDatum": "2020-06-23"
+    },
+    {
+      "id": 653,
+      "vevo": "Babbleset",
+      "kibocsajto": "Blognation",
+      "nOsszeg": 100558,
+      "fizHatDatum": "2020-01-24"
+    },
+    {
+      "id": 654,
+      "vevo": "Bubblemix",
+      "kibocsajto": "Tagcat",
+      "nOsszeg": 128339,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 655,
+      "vevo": "Zoonder",
+      "kibocsajto": "Meeveo",
+      "nOsszeg": 224598,
+      "fizHatDatum": "2020-07-08"
+    },
+    {
+      "id": 656,
+      "vevo": "Livetube",
+      "kibocsajto": "Livefish",
+      "nOsszeg": 73408,
+      "fizHatDatum": "2019-12-21"
+    },
+    {
+      "id": 657,
+      "vevo": "Voomm",
+      "kibocsajto": "Leexo",
+      "nOsszeg": 24547,
+      "fizHatDatum": "2019-12-11"
+    },
+    {
+      "id": 658,
+      "vevo": "Kwinu",
+      "kibocsajto": "Voonix",
+      "nOsszeg": 184870,
+      "fizHatDatum": "2019-09-05"
+    },
+    {
+      "id": 659,
+      "vevo": "Skinte",
+      "kibocsajto": "Zoonoodle",
+      "nOsszeg": 131124,
+      "fizHatDatum": "2020-02-12"
+    },
+    {
+      "id": 660,
+      "vevo": "Lazz",
+      "kibocsajto": "Skyba",
+      "nOsszeg": 243982,
+      "fizHatDatum": "2019-08-24"
+    },
+    {
+      "id": 661,
+      "vevo": "Talane",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 54368,
+      "fizHatDatum": "2020-01-30"
+    },
+    {
+      "id": 662,
+      "vevo": "Voomm",
+      "kibocsajto": "Jazzy",
+      "nOsszeg": 113211,
+      "fizHatDatum": "2019-07-08"
+    },
+    {
+      "id": 663,
+      "vevo": "Yodo",
+      "kibocsajto": "Feedmix",
+      "nOsszeg": 130024,
+      "fizHatDatum": "2020-04-22"
+    },
+    {
+      "id": 664,
+      "vevo": "Rhynyx",
+      "kibocsajto": "Yoveo",
+      "nOsszeg": 102878,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 665,
+      "vevo": "Kazio",
+      "kibocsajto": "Realfire",
+      "nOsszeg": 141594,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 666,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Babbleopia",
+      "nOsszeg": 165642,
+      "fizHatDatum": "2020-04-12"
+    },
+    {
+      "id": 667,
+      "vevo": "Zoomzone",
+      "kibocsajto": "Riffwire",
+      "nOsszeg": 61919,
+      "fizHatDatum": "2019-12-12"
+    },
+    {
+      "id": 668,
+      "vevo": "Einti",
+      "kibocsajto": "Gabvine",
+      "nOsszeg": 35244,
+      "fizHatDatum": "2019-12-24"
+    },
+    {
+      "id": 669,
+      "vevo": "Rhyzio",
+      "kibocsajto": "Cogibox",
+      "nOsszeg": 72161,
+      "fizHatDatum": "2019-12-28"
+    },
+    {
+      "id": 670,
+      "vevo": "Edgetag",
+      "kibocsajto": "Brainverse",
+      "nOsszeg": 78389,
+      "fizHatDatum": "2019-10-28"
+    },
+    {
+      "id": 671,
+      "vevo": "Photojam",
+      "kibocsajto": "Youspan",
+      "nOsszeg": 172798,
+      "fizHatDatum": "2019-12-07"
+    },
+    {
+      "id": 672,
+      "vevo": "Twitterworks",
+      "kibocsajto": "Tazz",
+      "nOsszeg": 130905,
+      "fizHatDatum": "2019-07-22"
+    },
+    {
+      "id": 673,
+      "vevo": "Browsedrive",
+      "kibocsajto": "Livefish",
+      "nOsszeg": 101624,
+      "fizHatDatum": "2019-12-07"
+    },
+    {
+      "id": 674,
+      "vevo": "Quinu",
+      "kibocsajto": "Omba",
+      "nOsszeg": 92954,
+      "fizHatDatum": "2020-01-12"
+    },
+    {
+      "id": 675,
+      "vevo": "Mynte",
+      "kibocsajto": "Flipbug",
+      "nOsszeg": 104586,
+      "fizHatDatum": "2020-04-06"
+    },
+    {
+      "id": 676,
+      "vevo": "Skimia",
+      "kibocsajto": "Voonyx",
+      "nOsszeg": 38069,
+      "fizHatDatum": "2019-06-30"
+    },
+    {
+      "id": 677,
+      "vevo": "Quire",
+      "kibocsajto": "Edgeclub",
+      "nOsszeg": 222597,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 678,
+      "vevo": "Kwinu",
+      "kibocsajto": "Jetwire",
+      "nOsszeg": 24285,
+      "fizHatDatum": "2020-02-12"
+    },
+    {
+      "id": 679,
+      "vevo": "Skyvu",
+      "kibocsajto": "Flipstorm",
+      "nOsszeg": 46840,
+      "fizHatDatum": "2019-07-25"
+    },
+    {
+      "id": 680,
+      "vevo": "Livepath",
+      "kibocsajto": "Tagchat",
+      "nOsszeg": 14278,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 681,
+      "vevo": "Oyoba",
+      "kibocsajto": "Katz",
+      "nOsszeg": 147344,
+      "fizHatDatum": "2020-02-08"
+    },
+    {
+      "id": 682,
+      "vevo": "Tanoodle",
+      "kibocsajto": "Yambee",
+      "nOsszeg": 80066,
+      "fizHatDatum": "2020-04-08"
+    },
+    {
+      "id": 683,
+      "vevo": "Divavu",
+      "kibocsajto": "Twiyo",
+      "nOsszeg": 129022,
+      "fizHatDatum": "2020-06-04"
+    },
+    {
+      "id": 684,
+      "vevo": "Kaymbo",
+      "kibocsajto": "Twitterworks",
+      "nOsszeg": 236785,
+      "fizHatDatum": "2019-10-18"
+    },
+    {
+      "id": 685,
+      "vevo": "Chatterbridge",
+      "kibocsajto": "Skinder",
+      "nOsszeg": 68129,
+      "fizHatDatum": "2019-11-17"
+    },
+    {
+      "id": 686,
+      "vevo": "Meembee",
+      "kibocsajto": "Divavu",
+      "nOsszeg": 146704,
+      "fizHatDatum": "2020-06-02"
+    },
+    {
+      "id": 687,
+      "vevo": "Ntag",
+      "kibocsajto": "Jamia",
+      "nOsszeg": 183417,
+      "fizHatDatum": "2019-09-13"
+    },
+    {
+      "id": 688,
+      "vevo": "Browsecat",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 53533,
+      "fizHatDatum": "2020-07-18"
+    },
+    {
+      "id": 689,
+      "vevo": "Yakidoo",
+      "kibocsajto": "Twinder",
+      "nOsszeg": 106266,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 690,
+      "vevo": "Geba",
+      "kibocsajto": "Katz",
+      "nOsszeg": 184396,
+      "fizHatDatum": "2020-03-13"
+    },
+    {
+      "id": 691,
+      "vevo": "Aimbo",
+      "kibocsajto": "Fadeo",
+      "nOsszeg": 76109,
+      "fizHatDatum": "2019-07-01"
+    },
+    {
+      "id": 692,
+      "vevo": "Avaveo",
+      "kibocsajto": "Fadeo",
+      "nOsszeg": 208244,
+      "fizHatDatum": "2020-01-23"
+    },
+    {
+      "id": 693,
+      "vevo": "Babblestorm",
+      "kibocsajto": "Devcast",
+      "nOsszeg": 37485,
+      "fizHatDatum": "2019-12-09"
+    },
+    {
+      "id": 694,
+      "vevo": "Reallinks",
+      "kibocsajto": "Skinder",
+      "nOsszeg": 98106,
+      "fizHatDatum": "2019-11-15"
+    },
+    {
+      "id": 695,
+      "vevo": "Divanoodle",
+      "kibocsajto": "Lazzy",
+      "nOsszeg": 99452,
+      "fizHatDatum": "2020-04-02"
+    },
+    {
+      "id": 696,
+      "vevo": "Livepath",
+      "kibocsajto": "Eidel",
+      "nOsszeg": 235093,
+      "fizHatDatum": "2019-08-29"
+    },
+    {
+      "id": 697,
+      "vevo": "Rhyloo",
+      "kibocsajto": "Edgewire",
+      "nOsszeg": 38790,
+      "fizHatDatum": "2019-08-23"
+    },
+    {
+      "id": 698,
+      "vevo": "Photofeed",
+      "kibocsajto": "Meedoo",
+      "nOsszeg": 172165,
+      "fizHatDatum": "2020-04-29"
+    },
+    {
+      "id": 699,
+      "vevo": "Roodel",
+      "kibocsajto": "Buzzbean",
+      "nOsszeg": 58841,
+      "fizHatDatum": "2019-06-27"
+    },
+    {
+      "id": 700,
+      "vevo": "Yodo",
+      "kibocsajto": "Mybuzz",
+      "nOsszeg": 74705,
+      "fizHatDatum": "2020-06-20"
+    },
+    {
+      "id": 701,
+      "vevo": "Teklist",
+      "kibocsajto": "Roomm",
+      "nOsszeg": 226962,
+      "fizHatDatum": "2020-04-20"
+    },
+    {
+      "id": 702,
+      "vevo": "Twitterbridge",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 113902,
+      "fizHatDatum": "2019-11-19"
+    },
+    {
+      "id": 703,
+      "vevo": "Lajo",
+      "kibocsajto": "Avavee",
+      "nOsszeg": 86260,
+      "fizHatDatum": "2020-06-11"
+    },
+    {
+      "id": 704,
+      "vevo": "Zoombox",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 35346,
+      "fizHatDatum": "2019-09-27"
+    },
+    {
+      "id": 705,
+      "vevo": "Tagchat",
+      "kibocsajto": "Jaxworks",
+      "nOsszeg": 220847,
+      "fizHatDatum": "2020-01-10"
+    },
+    {
+      "id": 706,
+      "vevo": "Dynazzy",
+      "kibocsajto": "Rhyzio",
+      "nOsszeg": 40349,
+      "fizHatDatum": "2019-12-30"
+    },
+    {
+      "id": 707,
+      "vevo": "Avamm",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 218804,
+      "fizHatDatum": "2019-11-23"
+    },
+    {
+      "id": 708,
+      "vevo": "Gabtype",
+      "kibocsajto": "Zoozzy",
+      "nOsszeg": 171006,
+      "fizHatDatum": "2019-06-23"
+    },
+    {
+      "id": 709,
+      "vevo": "Layo",
+      "kibocsajto": "Riffpath",
+      "nOsszeg": 212867,
+      "fizHatDatum": "2019-11-18"
+    },
+    {
+      "id": 710,
+      "vevo": "Browsezoom",
+      "kibocsajto": "Mita",
+      "nOsszeg": 63000,
+      "fizHatDatum": "2019-09-25"
+    },
+    {
+      "id": 711,
+      "vevo": "Topiczoom",
+      "kibocsajto": "Roomm",
+      "nOsszeg": 239068,
+      "fizHatDatum": "2020-06-16"
+    },
+    {
+      "id": 712,
+      "vevo": "Izio",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 6912,
+      "fizHatDatum": "2020-05-07"
+    },
+    {
+      "id": 713,
+      "vevo": "Buzzster",
+      "kibocsajto": "Dabshots",
+      "nOsszeg": 47025,
+      "fizHatDatum": "2019-08-21"
+    },
+    {
+      "id": 714,
+      "vevo": "Eimbee",
+      "kibocsajto": "Viva",
+      "nOsszeg": 175308,
+      "fizHatDatum": "2019-10-14"
+    },
+    {
+      "id": 715,
+      "vevo": "Kare",
+      "kibocsajto": "Photobug",
+      "nOsszeg": 5917,
+      "fizHatDatum": "2019-08-02"
+    },
+    {
+      "id": 716,
+      "vevo": "Cogilith",
+      "kibocsajto": "Zava",
+      "nOsszeg": 161742,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 717,
+      "vevo": "Vitz",
+      "kibocsajto": "Dabfeed",
+      "nOsszeg": 53975,
+      "fizHatDatum": "2019-11-26"
+    },
+    {
+      "id": 718,
+      "vevo": "Voonyx",
+      "kibocsajto": "Gabcube",
+      "nOsszeg": 229561,
+      "fizHatDatum": "2019-08-08"
+    },
+    {
+      "id": 719,
+      "vevo": "Quimm",
+      "kibocsajto": "Latz",
+      "nOsszeg": 139773,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 720,
+      "vevo": "Skinder",
+      "kibocsajto": "Mybuzz",
+      "nOsszeg": 187987,
+      "fizHatDatum": "2019-10-10"
+    },
+    {
+      "id": 721,
+      "vevo": "Meemm",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 24847,
+      "fizHatDatum": "2020-04-18"
+    },
+    {
+      "id": 722,
+      "vevo": "Oyoyo",
+      "kibocsajto": "Demimbu",
+      "nOsszeg": 104775,
+      "fizHatDatum": "2020-05-09"
+    },
+    {
+      "id": 723,
+      "vevo": "Demizz",
+      "kibocsajto": "Twitterbridge",
+      "nOsszeg": 102437,
+      "fizHatDatum": "2019-06-23"
+    },
+    {
+      "id": 724,
+      "vevo": "Rhybox",
+      "kibocsajto": "Buzzdog",
+      "nOsszeg": 37625,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 725,
+      "vevo": "Eamia",
+      "kibocsajto": "Fivechat",
+      "nOsszeg": 109033,
+      "fizHatDatum": "2019-11-09"
+    },
+    {
+      "id": 726,
+      "vevo": "Topiclounge",
+      "kibocsajto": "Skibox",
+      "nOsszeg": 152657,
+      "fizHatDatum": "2020-02-13"
+    },
+    {
+      "id": 727,
+      "vevo": "Podcat",
+      "kibocsajto": "Skiptube",
+      "nOsszeg": 224640,
+      "fizHatDatum": "2020-04-28"
+    },
+    {
+      "id": 728,
+      "vevo": "Vinder",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 207812,
+      "fizHatDatum": "2019-11-27"
+    },
+    {
+      "id": 729,
+      "vevo": "Brainsphere",
+      "kibocsajto": "Quatz",
+      "nOsszeg": 28853,
+      "fizHatDatum": "2020-07-11"
+    },
+    {
+      "id": 730,
+      "vevo": "Mybuzz",
+      "kibocsajto": "Viva",
+      "nOsszeg": 141882,
+      "fizHatDatum": "2020-07-26"
+    },
+    {
+      "id": 731,
+      "vevo": "Aivee",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 77982,
+      "fizHatDatum": "2019-06-29"
+    },
+    {
+      "id": 732,
+      "vevo": "Kare",
+      "kibocsajto": "Devcast",
+      "nOsszeg": 5506,
+      "fizHatDatum": "2020-01-08"
+    },
+    {
+      "id": 733,
+      "vevo": "Youbridge",
+      "kibocsajto": "Rhycero",
+      "nOsszeg": 127272,
+      "fizHatDatum": "2019-12-09"
+    },
+    {
+      "id": 734,
+      "vevo": "Thoughtbeat",
+      "kibocsajto": "Aivee",
+      "nOsszeg": 216144,
+      "fizHatDatum": "2019-08-29"
+    },
+    {
+      "id": 735,
+      "vevo": "Rhynyx",
+      "kibocsajto": "Quire",
+      "nOsszeg": 229159,
+      "fizHatDatum": "2020-01-12"
+    },
+    {
+      "id": 736,
+      "vevo": "Tazzy",
+      "kibocsajto": "Yotz",
+      "nOsszeg": 7802,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 737,
+      "vevo": "Viva",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 10901,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 738,
+      "vevo": "Babbleset",
+      "kibocsajto": "Quinu",
+      "nOsszeg": 217617,
+      "fizHatDatum": "2020-05-14"
+    },
+    {
+      "id": 739,
+      "vevo": "Tekfly",
+      "kibocsajto": "Dynazzy",
+      "nOsszeg": 37863,
+      "fizHatDatum": "2020-07-17"
+    },
+    {
+      "id": 740,
+      "vevo": "Youtags",
+      "kibocsajto": "Wikido",
+      "nOsszeg": 174365,
+      "fizHatDatum": "2020-03-15"
+    },
+    {
+      "id": 741,
+      "vevo": "Babblestorm",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 207981,
+      "fizHatDatum": "2020-07-14"
+    },
+    {
+      "id": 742,
+      "vevo": "Yadel",
+      "kibocsajto": "Roomm",
+      "nOsszeg": 219669,
+      "fizHatDatum": "2020-03-30"
+    },
+    {
+      "id": 743,
+      "vevo": "Layo",
+      "kibocsajto": "Skiptube",
+      "nOsszeg": 191768,
+      "fizHatDatum": "2020-05-08"
+    },
+    {
+      "id": 744,
+      "vevo": "Dabshots",
+      "kibocsajto": "Midel",
+      "nOsszeg": 4904,
+      "fizHatDatum": "2019-12-09"
+    },
+    {
+      "id": 745,
+      "vevo": "Meevee",
+      "kibocsajto": "InnoZ",
+      "nOsszeg": 119793,
+      "fizHatDatum": "2020-07-22"
+    },
+    {
+      "id": 746,
+      "vevo": "Bluejam",
+      "kibocsajto": "Mynte",
+      "nOsszeg": 183436,
+      "fizHatDatum": "2020-01-31"
+    },
+    {
+      "id": 747,
+      "vevo": "Dynava",
+      "kibocsajto": "Thoughtbridge",
+      "nOsszeg": 62351,
+      "fizHatDatum": "2019-07-28"
+    },
+    {
+      "id": 748,
+      "vevo": "Skajo",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 231655,
+      "fizHatDatum": "2020-04-01"
+    },
+    {
+      "id": 749,
+      "vevo": "Skyvu",
+      "kibocsajto": "Blognation",
+      "nOsszeg": 229140,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 750,
+      "vevo": "Skynoodle",
+      "kibocsajto": "Tagchat",
+      "nOsszeg": 74633,
+      "fizHatDatum": "2020-03-04"
+    },
+    {
+      "id": 751,
+      "vevo": "Cogibox",
+      "kibocsajto": "Dynabox",
+      "nOsszeg": 9287,
+      "fizHatDatum": "2019-10-30"
+    },
+    {
+      "id": 752,
+      "vevo": "LiveZ",
+      "kibocsajto": "Kanoodle",
+      "nOsszeg": 198674,
+      "fizHatDatum": "2020-01-25"
+    },
+    {
+      "id": 753,
+      "vevo": "Youspan",
+      "kibocsajto": "Mudo",
+      "nOsszeg": 15542,
+      "fizHatDatum": "2019-09-28"
+    },
+    {
+      "id": 754,
+      "vevo": "Digitube",
+      "kibocsajto": "Tagpad",
+      "nOsszeg": 56690,
+      "fizHatDatum": "2020-06-30"
+    },
+    {
+      "id": 755,
+      "vevo": "Twitterlist",
+      "kibocsajto": "Thoughtbridge",
+      "nOsszeg": 126353,
+      "fizHatDatum": "2019-10-02"
+    },
+    {
+      "id": 756,
+      "vevo": "Yambee",
+      "kibocsajto": "Youopia",
+      "nOsszeg": 97336,
+      "fizHatDatum": "2020-01-17"
+    },
+    {
+      "id": 757,
+      "vevo": "Realmix",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 70496,
+      "fizHatDatum": "2019-12-30"
+    },
+    {
+      "id": 758,
+      "vevo": "Yacero",
+      "kibocsajto": "Dynabox",
+      "nOsszeg": 66672,
+      "fizHatDatum": "2019-10-29"
+    },
+    {
+      "id": 759,
+      "vevo": "Fadeo",
+      "kibocsajto": "LiveZ",
+      "nOsszeg": 131557,
+      "fizHatDatum": "2020-06-30"
+    },
+    {
+      "id": 760,
+      "vevo": "Youspan",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 140428,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 761,
+      "vevo": "Zoomlounge",
+      "kibocsajto": "Yakitri",
+      "nOsszeg": 230764,
+      "fizHatDatum": "2020-04-03"
+    },
+    {
+      "id": 762,
+      "vevo": "Demizz",
+      "kibocsajto": "Jabbercube",
+      "nOsszeg": 209419,
+      "fizHatDatum": "2019-07-13"
+    },
+    {
+      "id": 763,
+      "vevo": "Jayo",
+      "kibocsajto": "Thoughtstorm",
+      "nOsszeg": 82715,
+      "fizHatDatum": "2019-10-11"
+    },
+    {
+      "id": 764,
+      "vevo": "Zoomdog",
+      "kibocsajto": "Quamba",
+      "nOsszeg": 6359,
+      "fizHatDatum": "2020-03-28"
+    },
+    {
+      "id": 765,
+      "vevo": "Flipopia",
+      "kibocsajto": "Zoozzy",
+      "nOsszeg": 230489,
+      "fizHatDatum": "2019-08-28"
+    },
+    {
+      "id": 766,
+      "vevo": "Meeveo",
+      "kibocsajto": "Brainsphere",
+      "nOsszeg": 17905,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 767,
+      "vevo": "Zoonder",
+      "kibocsajto": "Innotype",
+      "nOsszeg": 156832,
+      "fizHatDatum": "2019-12-29"
+    },
+    {
+      "id": 768,
+      "vevo": "Dabvine",
+      "kibocsajto": "Skaboo",
+      "nOsszeg": 26148,
+      "fizHatDatum": "2020-06-15"
+    },
+    {
+      "id": 769,
+      "vevo": "Gigaclub",
+      "kibocsajto": "Trunyx",
+      "nOsszeg": 36884,
+      "fizHatDatum": "2019-10-07"
+    },
+    {
+      "id": 770,
+      "vevo": "Quatz",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 98223,
+      "fizHatDatum": "2019-11-23"
+    },
+    {
+      "id": 771,
+      "vevo": "Livetube",
+      "kibocsajto": "Omba",
+      "nOsszeg": 201311,
+      "fizHatDatum": "2020-02-19"
+    },
+    {
+      "id": 772,
+      "vevo": "Realfire",
+      "kibocsajto": "Buzzster",
+      "nOsszeg": 162725,
+      "fizHatDatum": "2020-07-25"
+    },
+    {
+      "id": 773,
+      "vevo": "Dazzlesphere",
+      "kibocsajto": "Abata",
+      "nOsszeg": 146610,
+      "fizHatDatum": "2019-07-29"
+    },
+    {
+      "id": 774,
+      "vevo": "Babbleopia",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 53974,
+      "fizHatDatum": "2019-12-05"
+    },
+    {
+      "id": 775,
+      "vevo": "Twimbo",
+      "kibocsajto": "Feedfire",
+      "nOsszeg": 149966,
+      "fizHatDatum": "2019-07-31"
+    },
+    {
+      "id": 776,
+      "vevo": "Edgeify",
+      "kibocsajto": "Ainyx",
+      "nOsszeg": 42018,
+      "fizHatDatum": "2020-05-13"
+    },
+    {
+      "id": 777,
+      "vevo": "Brainlounge",
+      "kibocsajto": "Quimba",
+      "nOsszeg": 80416,
+      "fizHatDatum": "2020-02-06"
+    },
+    {
+      "id": 778,
+      "vevo": "Plambee",
+      "kibocsajto": "Topicshots",
+      "nOsszeg": 152220,
+      "fizHatDatum": "2019-08-22"
+    },
+    {
+      "id": 779,
+      "vevo": "Chatterpoint",
+      "kibocsajto": "Aibox",
+      "nOsszeg": 174916,
+      "fizHatDatum": "2019-11-30"
+    },
+    {
+      "id": 780,
+      "vevo": "Leexo",
+      "kibocsajto": "Vinte",
+      "nOsszeg": 233399,
+      "fizHatDatum": "2019-10-16"
+    },
+    {
+      "id": 781,
+      "vevo": "Oyoyo",
+      "kibocsajto": "Yata",
+      "nOsszeg": 217488,
+      "fizHatDatum": "2019-11-10"
+    },
+    {
+      "id": 782,
+      "vevo": "Divanoodle",
+      "kibocsajto": "Voonte",
+      "nOsszeg": 13771,
+      "fizHatDatum": "2019-11-18"
+    },
+    {
+      "id": 783,
+      "vevo": "Vipe",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 247950,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 784,
+      "vevo": "Livepath",
+      "kibocsajto": "Aimbo",
+      "nOsszeg": 47519,
+      "fizHatDatum": "2020-02-10"
+    },
+    {
+      "id": 785,
+      "vevo": "Mynte",
+      "kibocsajto": "Zoombox",
+      "nOsszeg": 92793,
+      "fizHatDatum": "2020-07-18"
+    },
+    {
+      "id": 786,
+      "vevo": "Janyx",
+      "kibocsajto": "Edgeify",
+      "nOsszeg": 81373,
+      "fizHatDatum": "2019-09-02"
+    },
+    {
+      "id": 787,
+      "vevo": "Pixoboo",
+      "kibocsajto": "Brightdog",
+      "nOsszeg": 197017,
+      "fizHatDatum": "2020-04-12"
+    },
+    {
+      "id": 788,
+      "vevo": "Skinix",
+      "kibocsajto": "Blogspan",
+      "nOsszeg": 183217,
+      "fizHatDatum": "2020-03-20"
+    },
+    {
+      "id": 789,
+      "vevo": "Ntags",
+      "kibocsajto": "Quaxo",
+      "nOsszeg": 151007,
+      "fizHatDatum": "2020-07-17"
+    },
+    {
+      "id": 790,
+      "vevo": "Wikido",
+      "kibocsajto": "Wikido",
+      "nOsszeg": 243541,
+      "fizHatDatum": "2019-12-29"
+    },
+    {
+      "id": 791,
+      "vevo": "Meevee",
+      "kibocsajto": "Browsecat",
+      "nOsszeg": 35823,
+      "fizHatDatum": "2020-03-24"
+    },
+    {
+      "id": 792,
+      "vevo": "Jetpulse",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 155642,
+      "fizHatDatum": "2019-09-03"
+    },
+    {
+      "id": 793,
+      "vevo": "Latz",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 242650,
+      "fizHatDatum": "2020-04-30"
+    },
+    {
+      "id": 794,
+      "vevo": "Jamia",
+      "kibocsajto": "Yadel",
+      "nOsszeg": 33525,
+      "fizHatDatum": "2019-08-31"
+    },
+    {
+      "id": 795,
+      "vevo": "Twimm",
+      "kibocsajto": "Youspan",
+      "nOsszeg": 76332,
+      "fizHatDatum": "2019-07-10"
+    },
+    {
+      "id": 796,
+      "vevo": "Reallinks",
+      "kibocsajto": "Skippad",
+      "nOsszeg": 193585,
+      "fizHatDatum": "2019-12-02"
+    },
+    {
+      "id": 797,
+      "vevo": "Yodo",
+      "kibocsajto": "Brightdog",
+      "nOsszeg": 234969,
+      "fizHatDatum": "2020-06-18"
+    },
+    {
+      "id": 798,
+      "vevo": "Kazio",
+      "kibocsajto": "Tazz",
+      "nOsszeg": 197702,
+      "fizHatDatum": "2020-04-16"
+    },
+    {
+      "id": 799,
+      "vevo": "Twitterlist",
+      "kibocsajto": "Quimm",
+      "nOsszeg": 99117,
+      "fizHatDatum": "2019-06-23"
+    },
+    {
+      "id": 800,
+      "vevo": "Edgepulse",
+      "kibocsajto": "Browsebug",
+      "nOsszeg": 130845,
+      "fizHatDatum": "2019-06-25"
+    },
+    {
+      "id": 801,
+      "vevo": "Centizu",
+      "kibocsajto": "Kimia",
+      "nOsszeg": 203203,
+      "fizHatDatum": "2020-06-29"
+    },
+    {
+      "id": 802,
+      "vevo": "Jatri",
+      "kibocsajto": "Miboo",
+      "nOsszeg": 117314,
+      "fizHatDatum": "2020-07-16"
+    },
+    {
+      "id": 803,
+      "vevo": "Tagfeed",
+      "kibocsajto": "Gabvine",
+      "nOsszeg": 146559,
+      "fizHatDatum": "2019-10-04"
+    },
+    {
+      "id": 804,
+      "vevo": "Jabbertype",
+      "kibocsajto": "Feedfire",
+      "nOsszeg": 78444,
+      "fizHatDatum": "2019-10-25"
+    },
+    {
+      "id": 805,
+      "vevo": "Kamba",
+      "kibocsajto": "Izio",
+      "nOsszeg": 21536,
+      "fizHatDatum": "2020-05-22"
+    },
+    {
+      "id": 806,
+      "vevo": "Flipstorm",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 72392,
+      "fizHatDatum": "2020-06-15"
+    },
+    {
+      "id": 807,
+      "vevo": "Skyba",
+      "kibocsajto": "Zazio",
+      "nOsszeg": 36553,
+      "fizHatDatum": "2020-01-11"
+    },
+    {
+      "id": 808,
+      "vevo": "Flashset",
+      "kibocsajto": "Aivee",
+      "nOsszeg": 236752,
+      "fizHatDatum": "2019-07-16"
+    },
+    {
+      "id": 809,
+      "vevo": "Feednation",
+      "kibocsajto": "Jayo",
+      "nOsszeg": 40609,
+      "fizHatDatum": "2019-08-11"
+    },
+    {
+      "id": 810,
+      "vevo": "Npath",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 66229,
+      "fizHatDatum": "2020-01-18"
+    },
+    {
+      "id": 811,
+      "vevo": "Edgeify",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 177609,
+      "fizHatDatum": "2019-09-04"
+    },
+    {
+      "id": 812,
+      "vevo": "Centidel",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 113617,
+      "fizHatDatum": "2020-01-03"
+    },
+    {
+      "id": 813,
+      "vevo": "Aivee",
+      "kibocsajto": "Realblab",
+      "nOsszeg": 131869,
+      "fizHatDatum": "2020-01-17"
+    },
+    {
+      "id": 814,
+      "vevo": "Quatz",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 58113,
+      "fizHatDatum": "2020-06-03"
+    },
+    {
+      "id": 815,
+      "vevo": "Gevee",
+      "kibocsajto": "Photolist",
+      "nOsszeg": 201454,
+      "fizHatDatum": "2020-06-09"
+    },
+    {
+      "id": 816,
+      "vevo": "Roodel",
+      "kibocsajto": "Skidoo",
+      "nOsszeg": 148620,
+      "fizHatDatum": "2020-06-13"
+    },
+    {
+      "id": 817,
+      "vevo": "Kwinu",
+      "kibocsajto": "Oyondu",
+      "nOsszeg": 35497,
+      "fizHatDatum": "2019-10-31"
+    },
+    {
+      "id": 818,
+      "vevo": "Quamba",
+      "kibocsajto": "Kwinu",
+      "nOsszeg": 173517,
+      "fizHatDatum": "2019-08-04"
+    },
+    {
+      "id": 819,
+      "vevo": "Shuffletag",
+      "kibocsajto": "Blogpad",
+      "nOsszeg": 234761,
+      "fizHatDatum": "2020-07-22"
+    },
+    {
+      "id": 820,
+      "vevo": "Thoughtstorm",
+      "kibocsajto": "Skipstorm",
+      "nOsszeg": 54515,
+      "fizHatDatum": "2019-08-20"
+    },
+    {
+      "id": 821,
+      "vevo": "Topiczoom",
+      "kibocsajto": "Skidoo",
+      "nOsszeg": 216359,
+      "fizHatDatum": "2019-11-03"
+    },
+    {
+      "id": 822,
+      "vevo": "Tagopia",
+      "kibocsajto": "Jazzy",
+      "nOsszeg": 51618,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 823,
+      "vevo": "Trudoo",
+      "kibocsajto": "Demivee",
+      "nOsszeg": 228144,
+      "fizHatDatum": "2019-07-17"
+    },
+    {
+      "id": 824,
+      "vevo": "Dabfeed",
+      "kibocsajto": "Kwinu",
+      "nOsszeg": 35263,
+      "fizHatDatum": "2020-01-28"
+    },
+    {
+      "id": 825,
+      "vevo": "Fadeo",
+      "kibocsajto": "Agivu",
+      "nOsszeg": 242167,
+      "fizHatDatum": "2019-07-12"
+    },
+    {
+      "id": 826,
+      "vevo": "Vinder",
+      "kibocsajto": "Izio",
+      "nOsszeg": 123514,
+      "fizHatDatum": "2019-11-25"
+    },
+    {
+      "id": 827,
+      "vevo": "Eimbee",
+      "kibocsajto": "Latz",
+      "nOsszeg": 6982,
+      "fizHatDatum": "2020-04-11"
+    },
+    {
+      "id": 828,
+      "vevo": "JumpXS",
+      "kibocsajto": "Oozz",
+      "nOsszeg": 220258,
+      "fizHatDatum": "2019-12-31"
+    },
+    {
+      "id": 829,
+      "vevo": "Plajo",
+      "kibocsajto": "Mymm",
+      "nOsszeg": 246831,
+      "fizHatDatum": "2019-11-27"
+    },
+    {
+      "id": 830,
+      "vevo": "Skynoodle",
+      "kibocsajto": "Babbleset",
+      "nOsszeg": 186695,
+      "fizHatDatum": "2020-05-10"
+    },
+    {
+      "id": 831,
+      "vevo": "Cogilith",
+      "kibocsajto": "Jamia",
+      "nOsszeg": 127554,
+      "fizHatDatum": "2019-08-22"
+    },
+    {
+      "id": 832,
+      "vevo": "Gigashots",
+      "kibocsajto": "Myworks",
+      "nOsszeg": 188614,
+      "fizHatDatum": "2019-09-01"
+    },
+    {
+      "id": 833,
+      "vevo": "Quinu",
+      "kibocsajto": "Browsedrive",
+      "nOsszeg": 180913,
+      "fizHatDatum": "2019-12-22"
+    },
+    {
+      "id": 834,
+      "vevo": "Youspan",
+      "kibocsajto": "Realblab",
+      "nOsszeg": 206674,
+      "fizHatDatum": "2020-04-19"
+    },
+    {
+      "id": 835,
+      "vevo": "Kaymbo",
+      "kibocsajto": "Feedmix",
+      "nOsszeg": 48792,
+      "fizHatDatum": "2020-04-26"
+    },
+    {
+      "id": 836,
+      "vevo": "Jabbertype",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 109107,
+      "fizHatDatum": "2020-07-11"
+    },
+    {
+      "id": 837,
+      "vevo": "Mymm",
+      "kibocsajto": "Divavu",
+      "nOsszeg": 146971,
+      "fizHatDatum": "2019-07-08"
+    },
+    {
+      "id": 838,
+      "vevo": "Skinte",
+      "kibocsajto": "Fliptune",
+      "nOsszeg": 151858,
+      "fizHatDatum": "2019-10-20"
+    },
+    {
+      "id": 839,
+      "vevo": "Browsecat",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 227195,
+      "fizHatDatum": "2019-10-13"
+    },
+    {
+      "id": 840,
+      "vevo": "Gigaclub",
+      "kibocsajto": "Pixonyx",
+      "nOsszeg": 140334,
+      "fizHatDatum": "2020-04-17"
+    },
+    {
+      "id": 841,
+      "vevo": "Roomm",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 65307,
+      "fizHatDatum": "2019-07-23"
+    },
+    {
+      "id": 842,
+      "vevo": "Quatz",
+      "kibocsajto": "Wordware",
+      "nOsszeg": 163333,
+      "fizHatDatum": "2020-04-27"
+    },
+    {
+      "id": 843,
+      "vevo": "Lazzy",
+      "kibocsajto": "Lajo",
+      "nOsszeg": 188896,
+      "fizHatDatum": "2019-11-06"
+    },
+    {
+      "id": 844,
+      "vevo": "Devify",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 70821,
+      "fizHatDatum": "2020-07-01"
+    },
+    {
+      "id": 845,
+      "vevo": "Eazzy",
+      "kibocsajto": "Trilia",
+      "nOsszeg": 36275,
+      "fizHatDatum": "2019-10-14"
+    },
+    {
+      "id": 846,
+      "vevo": "Eimbee",
+      "kibocsajto": "Ooba",
+      "nOsszeg": 187647,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 847,
+      "vevo": "Pixoboo",
+      "kibocsajto": "Gigazoom",
+      "nOsszeg": 149708,
+      "fizHatDatum": "2020-02-29"
+    },
+    {
+      "id": 848,
+      "vevo": "Jabbersphere",
+      "kibocsajto": "Mudo",
+      "nOsszeg": 132621,
+      "fizHatDatum": "2019-07-17"
+    },
+    {
+      "id": 849,
+      "vevo": "Tavu",
+      "kibocsajto": "Feedfish",
+      "nOsszeg": 138561,
+      "fizHatDatum": "2019-11-24"
+    },
+    {
+      "id": 850,
+      "vevo": "Flashset",
+      "kibocsajto": "Skyble",
+      "nOsszeg": 145580,
+      "fizHatDatum": "2020-02-29"
+    },
+    {
+      "id": 851,
+      "vevo": "Skinix",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 240295,
+      "fizHatDatum": "2020-06-15"
+    },
+    {
+      "id": 852,
+      "vevo": "Vinte",
+      "kibocsajto": "Wordify",
+      "nOsszeg": 95474,
+      "fizHatDatum": "2020-07-24"
+    },
+    {
+      "id": 853,
+      "vevo": "Gevee",
+      "kibocsajto": "Jetpulse",
+      "nOsszeg": 64131,
+      "fizHatDatum": "2020-02-05"
+    },
+    {
+      "id": 854,
+      "vevo": "Shuffledrive",
+      "kibocsajto": "Zoonder",
+      "nOsszeg": 77268,
+      "fizHatDatum": "2020-01-13"
+    },
+    {
+      "id": 855,
+      "vevo": "Leexo",
+      "kibocsajto": "Zoombeat",
+      "nOsszeg": 192840,
+      "fizHatDatum": "2020-07-16"
+    },
+    {
+      "id": 856,
+      "vevo": "Kayveo",
+      "kibocsajto": "Kaymbo",
+      "nOsszeg": 33023,
+      "fizHatDatum": "2020-04-07"
+    },
+    {
+      "id": 857,
+      "vevo": "Skilith",
+      "kibocsajto": "Thoughtmix",
+      "nOsszeg": 245446,
+      "fizHatDatum": "2019-12-29"
+    },
+    {
+      "id": 858,
+      "vevo": "Geba",
+      "kibocsajto": "Jatri",
+      "nOsszeg": 86826,
+      "fizHatDatum": "2020-02-20"
+    },
+    {
+      "id": 859,
+      "vevo": "Feedspan",
+      "kibocsajto": "Zazio",
+      "nOsszeg": 180588,
+      "fizHatDatum": "2019-08-19"
+    },
+    {
+      "id": 860,
+      "vevo": "Photospace",
+      "kibocsajto": "Jaxworks",
+      "nOsszeg": 48585,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 861,
+      "vevo": "Plambee",
+      "kibocsajto": "Jayo",
+      "nOsszeg": 73274,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 862,
+      "vevo": "Topiclounge",
+      "kibocsajto": "Flipopia",
+      "nOsszeg": 179779,
+      "fizHatDatum": "2019-10-06"
+    },
+    {
+      "id": 863,
+      "vevo": "Rhynyx",
+      "kibocsajto": "Jatri",
+      "nOsszeg": 194996,
+      "fizHatDatum": "2020-02-21"
+    },
+    {
+      "id": 864,
+      "vevo": "Oyonder",
+      "kibocsajto": "Tagchat",
+      "nOsszeg": 100987,
+      "fizHatDatum": "2020-03-12"
+    },
+    {
+      "id": 865,
+      "vevo": "Babbleopia",
+      "kibocsajto": "Topiclounge",
+      "nOsszeg": 182059,
+      "fizHatDatum": "2019-12-25"
+    },
+    {
+      "id": 866,
+      "vevo": "Quire",
+      "kibocsajto": "Podcat",
+      "nOsszeg": 59876,
+      "fizHatDatum": "2020-07-22"
+    },
+    {
+      "id": 867,
+      "vevo": "Linktype",
+      "kibocsajto": "Divape",
+      "nOsszeg": 165956,
+      "fizHatDatum": "2020-06-26"
+    },
+    {
+      "id": 868,
+      "vevo": "Latz",
+      "kibocsajto": "Skiba",
+      "nOsszeg": 66980,
+      "fizHatDatum": "2020-06-08"
+    },
+    {
+      "id": 869,
+      "vevo": "Innojam",
+      "kibocsajto": "Agimba",
+      "nOsszeg": 247420,
+      "fizHatDatum": "2020-02-26"
+    },
+    {
+      "id": 870,
+      "vevo": "Agimba",
+      "kibocsajto": "Dabjam",
+      "nOsszeg": 230365,
+      "fizHatDatum": "2020-02-29"
+    },
+    {
+      "id": 871,
+      "vevo": "Linktype",
+      "kibocsajto": "Yakijo",
+      "nOsszeg": 233120,
+      "fizHatDatum": "2020-04-10"
+    },
+    {
+      "id": 872,
+      "vevo": "Brightbean",
+      "kibocsajto": "Gigashots",
+      "nOsszeg": 15615,
+      "fizHatDatum": "2020-05-27"
+    },
+    {
+      "id": 873,
+      "vevo": "Mymm",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 249589,
+      "fizHatDatum": "2019-10-24"
+    },
+    {
+      "id": 874,
+      "vevo": "Agivu",
+      "kibocsajto": "Tagfeed",
+      "nOsszeg": 236690,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 875,
+      "vevo": "Livetube",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 185626,
+      "fizHatDatum": "2019-08-26"
+    },
+    {
+      "id": 876,
+      "vevo": "Photobug",
+      "kibocsajto": "Innojam",
+      "nOsszeg": 87310,
+      "fizHatDatum": "2019-09-01"
+    },
+    {
+      "id": 877,
+      "vevo": "Lazzy",
+      "kibocsajto": "Skalith",
+      "nOsszeg": 132184,
+      "fizHatDatum": "2019-07-11"
+    },
+    {
+      "id": 878,
+      "vevo": "Oyonder",
+      "kibocsajto": "Teklist",
+      "nOsszeg": 3157,
+      "fizHatDatum": "2020-05-30"
+    },
+    {
+      "id": 879,
+      "vevo": "Quire",
+      "kibocsajto": "Agivu",
+      "nOsszeg": 179540,
+      "fizHatDatum": "2020-03-29"
+    },
+    {
+      "id": 880,
+      "vevo": "Thoughtworks",
+      "kibocsajto": "Photospace",
+      "nOsszeg": 145208,
+      "fizHatDatum": "2020-04-05"
+    },
+    {
+      "id": 881,
+      "vevo": "Shufflester",
+      "kibocsajto": "Jabberstorm",
+      "nOsszeg": 134796,
+      "fizHatDatum": "2020-06-27"
+    },
+    {
+      "id": 882,
+      "vevo": "Jaxworks",
+      "kibocsajto": "Devshare",
+      "nOsszeg": 51972,
+      "fizHatDatum": "2020-03-25"
+    },
+    {
+      "id": 883,
+      "vevo": "BlogXS",
+      "kibocsajto": "Eimbee",
+      "nOsszeg": 49252,
+      "fizHatDatum": "2019-10-31"
+    },
+    {
+      "id": 884,
+      "vevo": "Babblestorm",
+      "kibocsajto": "Kwinu",
+      "nOsszeg": 246192,
+      "fizHatDatum": "2019-07-07"
+    },
+    {
+      "id": 885,
+      "vevo": "Brainlounge",
+      "kibocsajto": "Zoovu",
+      "nOsszeg": 21983,
+      "fizHatDatum": "2020-05-10"
+    },
+    {
+      "id": 886,
+      "vevo": "Photolist",
+      "kibocsajto": "Izio",
+      "nOsszeg": 91318,
+      "fizHatDatum": "2020-04-20"
+    },
+    {
+      "id": 887,
+      "vevo": "Agimba",
+      "kibocsajto": "Tagcat",
+      "nOsszeg": 51252,
+      "fizHatDatum": "2020-04-21"
+    },
+    {
+      "id": 888,
+      "vevo": "Zoozzy",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 242686,
+      "fizHatDatum": "2019-07-20"
+    },
+    {
+      "id": 889,
+      "vevo": "Meeveo",
+      "kibocsajto": "Fivechat",
+      "nOsszeg": 60870,
+      "fizHatDatum": "2020-02-05"
+    },
+    {
+      "id": 890,
+      "vevo": "Dazzlesphere",
+      "kibocsajto": "Skiptube",
+      "nOsszeg": 17430,
+      "fizHatDatum": "2020-06-16"
+    },
+    {
+      "id": 891,
+      "vevo": "Rhyloo",
+      "kibocsajto": "Jabberbean",
+      "nOsszeg": 234876,
+      "fizHatDatum": "2020-03-06"
+    },
+    {
+      "id": 892,
+      "vevo": "Dabshots",
+      "kibocsajto": "Bubbletube",
+      "nOsszeg": 214204,
+      "fizHatDatum": "2020-03-09"
+    },
+    {
+      "id": 893,
+      "vevo": "Browsebug",
+      "kibocsajto": "Kimia",
+      "nOsszeg": 50033,
+      "fizHatDatum": "2020-01-05"
+    },
+    {
+      "id": 894,
+      "vevo": "Youopia",
+      "kibocsajto": "Jaxbean",
+      "nOsszeg": 238274,
+      "fizHatDatum": "2019-12-14"
+    },
+    {
+      "id": 895,
+      "vevo": "Buzzshare",
+      "kibocsajto": "Feedfish",
+      "nOsszeg": 139406,
+      "fizHatDatum": "2019-09-24"
+    },
+    {
+      "id": 896,
+      "vevo": "Innotype",
+      "kibocsajto": "Avamba",
+      "nOsszeg": 134714,
+      "fizHatDatum": "2019-08-09"
+    },
+    {
+      "id": 897,
+      "vevo": "Kwilith",
+      "kibocsajto": "Flashset",
+      "nOsszeg": 180213,
+      "fizHatDatum": "2019-09-25"
+    },
+    {
+      "id": 898,
+      "vevo": "Wikivu",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 232100,
+      "fizHatDatum": "2020-04-24"
+    },
+    {
+      "id": 899,
+      "vevo": "JumpXS",
+      "kibocsajto": "Tagpad",
+      "nOsszeg": 176473,
+      "fizHatDatum": "2019-08-01"
+    },
+    {
+      "id": 900,
+      "vevo": "Blogspan",
+      "kibocsajto": "Pixope",
+      "nOsszeg": 30532,
+      "fizHatDatum": "2019-11-07"
+    },
+    {
+      "id": 901,
+      "vevo": "Divape",
+      "kibocsajto": "Skidoo",
+      "nOsszeg": 122074,
+      "fizHatDatum": "2020-07-19"
+    },
+    {
+      "id": 902,
+      "vevo": "Youspan",
+      "kibocsajto": "Skyvu",
+      "nOsszeg": 116060,
+      "fizHatDatum": "2020-01-20"
+    },
+    {
+      "id": 903,
+      "vevo": "Voonder",
+      "kibocsajto": "Leexo",
+      "nOsszeg": 67462,
+      "fizHatDatum": "2019-09-26"
+    },
+    {
+      "id": 904,
+      "vevo": "Quatz",
+      "kibocsajto": "Yambee",
+      "nOsszeg": 214654,
+      "fizHatDatum": "2019-12-13"
+    },
+    {
+      "id": 905,
+      "vevo": "Quinu",
+      "kibocsajto": "Buzzster",
+      "nOsszeg": 212275,
+      "fizHatDatum": "2019-09-24"
+    },
+    {
+      "id": 906,
+      "vevo": "Quatz",
+      "kibocsajto": "Flashpoint",
+      "nOsszeg": 171717,
+      "fizHatDatum": "2019-09-07"
+    },
+    {
+      "id": 907,
+      "vevo": "Jaloo",
+      "kibocsajto": "Voolia",
+      "nOsszeg": 187885,
+      "fizHatDatum": "2019-06-27"
+    },
+    {
+      "id": 908,
+      "vevo": "Divanoodle",
+      "kibocsajto": "Tavu",
+      "nOsszeg": 150421,
+      "fizHatDatum": "2019-11-30"
+    },
+    {
+      "id": 909,
+      "vevo": "Oyoba",
+      "kibocsajto": "Thoughtstorm",
+      "nOsszeg": 170708,
+      "fizHatDatum": "2019-11-26"
+    },
+    {
+      "id": 910,
+      "vevo": "Topicshots",
+      "kibocsajto": "Kazio",
+      "nOsszeg": 16308,
+      "fizHatDatum": "2019-06-25"
+    },
+    {
+      "id": 911,
+      "vevo": "Trudoo",
+      "kibocsajto": "Photobean",
+      "nOsszeg": 196469,
+      "fizHatDatum": "2019-08-06"
+    },
+    {
+      "id": 912,
+      "vevo": "Youopia",
+      "kibocsajto": "Skinix",
+      "nOsszeg": 189965,
+      "fizHatDatum": "2019-10-09"
+    },
+    {
+      "id": 913,
+      "vevo": "Roodel",
+      "kibocsajto": "Realfire",
+      "nOsszeg": 247788,
+      "fizHatDatum": "2020-02-26"
+    },
+    {
+      "id": 914,
+      "vevo": "Aimbu",
+      "kibocsajto": "Leenti",
+      "nOsszeg": 148935,
+      "fizHatDatum": "2020-05-31"
+    },
+    {
+      "id": 915,
+      "vevo": "Flashspan",
+      "kibocsajto": "Thoughtstorm",
+      "nOsszeg": 180498,
+      "fizHatDatum": "2019-12-24"
+    },
+    {
+      "id": 916,
+      "vevo": "Cogilith",
+      "kibocsajto": "Jaxbean",
+      "nOsszeg": 175415,
+      "fizHatDatum": "2019-10-20"
+    },
+    {
+      "id": 917,
+      "vevo": "Buzzbean",
+      "kibocsajto": "Jaxspan",
+      "nOsszeg": 83638,
+      "fizHatDatum": "2019-10-23"
+    },
+    {
+      "id": 918,
+      "vevo": "Gabtune",
+      "kibocsajto": "InnoZ",
+      "nOsszeg": 57598,
+      "fizHatDatum": "2020-02-03"
+    },
+    {
+      "id": 919,
+      "vevo": "Lazzy",
+      "kibocsajto": "Yamia",
+      "nOsszeg": 49055,
+      "fizHatDatum": "2019-10-08"
+    },
+    {
+      "id": 920,
+      "vevo": "Meeveo",
+      "kibocsajto": "Fanoodle",
+      "nOsszeg": 226403,
+      "fizHatDatum": "2020-04-09"
+    },
+    {
+      "id": 921,
+      "vevo": "Edgeblab",
+      "kibocsajto": "Layo",
+      "nOsszeg": 3520,
+      "fizHatDatum": "2019-11-13"
+    },
+    {
+      "id": 922,
+      "vevo": "Wikizz",
+      "kibocsajto": "Trilia",
+      "nOsszeg": 75857,
+      "fizHatDatum": "2019-12-31"
+    },
+    {
+      "id": 923,
+      "vevo": "Quatz",
+      "kibocsajto": "Browsetype",
+      "nOsszeg": 90038,
+      "fizHatDatum": "2020-02-20"
+    },
+    {
+      "id": 924,
+      "vevo": "Plajo",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 145973,
+      "fizHatDatum": "2020-04-25"
+    },
+    {
+      "id": 925,
+      "vevo": "Skinder",
+      "kibocsajto": "Nlounge",
+      "nOsszeg": 181347,
+      "fizHatDatum": "2020-04-26"
+    },
+    {
+      "id": 926,
+      "vevo": "Bubbletube",
+      "kibocsajto": "Cogilith",
+      "nOsszeg": 14598,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 927,
+      "vevo": "Kazu",
+      "kibocsajto": "Eabox",
+      "nOsszeg": 14339,
+      "fizHatDatum": "2020-02-21"
+    },
+    {
+      "id": 928,
+      "vevo": "Topicware",
+      "kibocsajto": "Npath",
+      "nOsszeg": 213690,
+      "fizHatDatum": "2020-01-09"
+    },
+    {
+      "id": 929,
+      "vevo": "Jabbertype",
+      "kibocsajto": "Jaxnation",
+      "nOsszeg": 194591,
+      "fizHatDatum": "2020-01-28"
+    },
+    {
+      "id": 930,
+      "vevo": "Flashspan",
+      "kibocsajto": "Divanoodle",
+      "nOsszeg": 201930,
+      "fizHatDatum": "2019-09-27"
+    },
+    {
+      "id": 931,
+      "vevo": "Roomm",
+      "kibocsajto": "Cogidoo",
+      "nOsszeg": 4677,
+      "fizHatDatum": "2020-02-02"
+    },
+    {
+      "id": 932,
+      "vevo": "Shufflester",
+      "kibocsajto": "Gabspot",
+      "nOsszeg": 36208,
+      "fizHatDatum": "2020-04-30"
+    },
+    {
+      "id": 933,
+      "vevo": "Eare",
+      "kibocsajto": "Shuffletag",
+      "nOsszeg": 22511,
+      "fizHatDatum": "2019-12-21"
+    },
+    {
+      "id": 934,
+      "vevo": "Flashspan",
+      "kibocsajto": "Meeveo",
+      "nOsszeg": 179694,
+      "fizHatDatum": "2019-10-09"
+    },
+    {
+      "id": 935,
+      "vevo": "Gigazoom",
+      "kibocsajto": "Babbleblab",
+      "nOsszeg": 100470,
+      "fizHatDatum": "2020-05-23"
+    },
+    {
+      "id": 936,
+      "vevo": "Twitterworks",
+      "kibocsajto": "Midel",
+      "nOsszeg": 249051,
+      "fizHatDatum": "2019-11-11"
+    },
+    {
+      "id": 937,
+      "vevo": "Kazio",
+      "kibocsajto": "Zava",
+      "nOsszeg": 159706,
+      "fizHatDatum": "2019-12-21"
+    },
+    {
+      "id": 938,
+      "vevo": "Vitz",
+      "kibocsajto": "Mydo",
+      "nOsszeg": 117334,
+      "fizHatDatum": "2019-08-31"
+    },
+    {
+      "id": 939,
+      "vevo": "Babblestorm",
+      "kibocsajto": "Aimbu",
+      "nOsszeg": 32303,
+      "fizHatDatum": "2019-07-14"
+    },
+    {
+      "id": 940,
+      "vevo": "Bluejam",
+      "kibocsajto": "Thoughtmix",
+      "nOsszeg": 94873,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 941,
+      "vevo": "Skyble",
+      "kibocsajto": "Trudoo",
+      "nOsszeg": 176128,
+      "fizHatDatum": "2019-10-09"
+    },
+    {
+      "id": 942,
+      "vevo": "Jayo",
+      "kibocsajto": "Oyoyo",
+      "nOsszeg": 63675,
+      "fizHatDatum": "2020-05-05"
+    },
+    {
+      "id": 943,
+      "vevo": "Babbleset",
+      "kibocsajto": "Kwimbee",
+      "nOsszeg": 177899,
+      "fizHatDatum": "2019-12-06"
+    },
+    {
+      "id": 944,
+      "vevo": "Yacero",
+      "kibocsajto": "Vinder",
+      "nOsszeg": 204179,
+      "fizHatDatum": "2020-03-23"
+    },
+    {
+      "id": 945,
+      "vevo": "Mita",
+      "kibocsajto": "Viva",
+      "nOsszeg": 80898,
+      "fizHatDatum": "2020-07-30"
+    },
+    {
+      "id": 946,
+      "vevo": "Dabshots",
+      "kibocsajto": "Youfeed",
+      "nOsszeg": 70431,
+      "fizHatDatum": "2020-05-13"
+    },
+    {
+      "id": 947,
+      "vevo": "Ailane",
+      "kibocsajto": "Youfeed",
+      "nOsszeg": 189909,
+      "fizHatDatum": "2020-02-25"
+    },
+    {
+      "id": 948,
+      "vevo": "Fadeo",
+      "kibocsajto": "Wikizz",
+      "nOsszeg": 101117,
+      "fizHatDatum": "2020-02-01"
+    },
+    {
+      "id": 949,
+      "vevo": "Shufflester",
+      "kibocsajto": "Avamba",
+      "nOsszeg": 101082,
+      "fizHatDatum": "2019-12-08"
+    },
+    {
+      "id": 950,
+      "vevo": "Browseblab",
+      "kibocsajto": "Aibox",
+      "nOsszeg": 242489,
+      "fizHatDatum": "2019-12-24"
+    },
+    {
+      "id": 951,
+      "vevo": "Vinte",
+      "kibocsajto": "Jaloo",
+      "nOsszeg": 38429,
+      "fizHatDatum": "2020-06-13"
+    },
+    {
+      "id": 952,
+      "vevo": "Zooxo",
+      "kibocsajto": "Brightbean",
+      "nOsszeg": 2566,
+      "fizHatDatum": "2020-01-28"
+    },
+    {
+      "id": 953,
+      "vevo": "Quatz",
+      "kibocsajto": "Edgeblab",
+      "nOsszeg": 191995,
+      "fizHatDatum": "2020-01-31"
+    },
+    {
+      "id": 954,
+      "vevo": "Realbuzz",
+      "kibocsajto": "Ailane",
+      "nOsszeg": 185152,
+      "fizHatDatum": "2020-03-20"
+    },
+    {
+      "id": 955,
+      "vevo": "Meejo",
+      "kibocsajto": "Vipe",
+      "nOsszeg": 62829,
+      "fizHatDatum": "2020-02-22"
+    },
+    {
+      "id": 956,
+      "vevo": "Lazzy",
+      "kibocsajto": "Jabberstorm",
+      "nOsszeg": 133227,
+      "fizHatDatum": "2019-07-19"
+    },
+    {
+      "id": 957,
+      "vevo": "Voolia",
+      "kibocsajto": "Zoomzone",
+      "nOsszeg": 171276,
+      "fizHatDatum": "2019-07-16"
+    },
+    {
+      "id": 958,
+      "vevo": "Thoughtstorm",
+      "kibocsajto": "Abatz",
+      "nOsszeg": 136090,
+      "fizHatDatum": "2020-05-26"
+    },
+    {
+      "id": 959,
+      "vevo": "Buzzshare",
+      "kibocsajto": "Browsezoom",
+      "nOsszeg": 15053,
+      "fizHatDatum": "2020-04-08"
+    },
+    {
+      "id": 960,
+      "vevo": "Agimba",
+      "kibocsajto": "Innojam",
+      "nOsszeg": 216521,
+      "fizHatDatum": "2020-02-15"
+    },
+    {
+      "id": 961,
+      "vevo": "Snaptags",
+      "kibocsajto": "Feedmix",
+      "nOsszeg": 78091,
+      "fizHatDatum": "2020-07-20"
+    },
+    {
+      "id": 962,
+      "vevo": "Oodoo",
+      "kibocsajto": "Devshare",
+      "nOsszeg": 239190,
+      "fizHatDatum": "2019-10-21"
+    },
+    {
+      "id": 963,
+      "vevo": "InnoZ",
+      "kibocsajto": "Dabshots",
+      "nOsszeg": 13299,
+      "fizHatDatum": "2020-03-25"
+    },
+    {
+      "id": 964,
+      "vevo": "Skiba",
+      "kibocsajto": "Fanoodle",
+      "nOsszeg": 86417,
+      "fizHatDatum": "2019-09-18"
+    },
+    {
+      "id": 965,
+      "vevo": "Twitternation",
+      "kibocsajto": "Gabvine",
+      "nOsszeg": 108085,
+      "fizHatDatum": "2019-06-25"
+    },
+    {
+      "id": 966,
+      "vevo": "Digitube",
+      "kibocsajto": "Jabberbean",
+      "nOsszeg": 145674,
+      "fizHatDatum": "2019-08-07"
+    },
+    {
+      "id": 967,
+      "vevo": "Ooba",
+      "kibocsajto": "Oloo",
+      "nOsszeg": 233082,
+      "fizHatDatum": "2020-01-03"
+    },
+    {
+      "id": 968,
+      "vevo": "Realcube",
+      "kibocsajto": "Meeveo",
+      "nOsszeg": 244009,
+      "fizHatDatum": "2020-04-01"
+    },
+    {
+      "id": 969,
+      "vevo": "Dynabox",
+      "kibocsajto": "Devbug",
+      "nOsszeg": 155075,
+      "fizHatDatum": "2019-09-10"
+    },
+    {
+      "id": 970,
+      "vevo": "Divanoodle",
+      "kibocsajto": "Zoomdog",
+      "nOsszeg": 54084,
+      "fizHatDatum": "2019-08-22"
+    },
+    {
+      "id": 971,
+      "vevo": "Aivee",
+      "kibocsajto": "Snaptags",
+      "nOsszeg": 35700,
+      "fizHatDatum": "2020-03-04"
+    },
+    {
+      "id": 972,
+      "vevo": "Topicstorm",
+      "kibocsajto": "Abatz",
+      "nOsszeg": 235910,
+      "fizHatDatum": "2020-05-11"
+    },
+    {
+      "id": 973,
+      "vevo": "Bubblemix",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 118699,
+      "fizHatDatum": "2020-03-07"
+    },
+    {
+      "id": 974,
+      "vevo": "Linktype",
+      "kibocsajto": "Wordware",
+      "nOsszeg": 116575,
+      "fizHatDatum": "2019-12-21"
+    },
+    {
+      "id": 975,
+      "vevo": "Brainbox",
+      "kibocsajto": "Gigabox",
+      "nOsszeg": 156467,
+      "fizHatDatum": "2019-12-03"
+    },
+    {
+      "id": 976,
+      "vevo": "Devpoint",
+      "kibocsajto": "Skiba",
+      "nOsszeg": 79234,
+      "fizHatDatum": "2020-03-20"
+    },
+    {
+      "id": 977,
+      "vevo": "Feedfire",
+      "kibocsajto": "Mydeo",
+      "nOsszeg": 28241,
+      "fizHatDatum": "2020-02-10"
+    },
+    {
+      "id": 978,
+      "vevo": "Kare",
+      "kibocsajto": "Vinte",
+      "nOsszeg": 140289,
+      "fizHatDatum": "2019-07-29"
+    },
+    {
+      "id": 979,
+      "vevo": "Fivechat",
+      "kibocsajto": "Wikibox",
+      "nOsszeg": 186499,
+      "fizHatDatum": "2019-11-03"
+    },
+    {
+      "id": 980,
+      "vevo": "Browsedrive",
+      "kibocsajto": "Digitube",
+      "nOsszeg": 221234,
+      "fizHatDatum": "2020-01-06"
+    },
+    {
+      "id": 981,
+      "vevo": "Livepath",
+      "kibocsajto": "Rhybox",
+      "nOsszeg": 149838,
+      "fizHatDatum": "2019-08-03"
+    },
+    {
+      "id": 982,
+      "vevo": "Agimba",
+      "kibocsajto": "Eimbee",
+      "nOsszeg": 149821,
+      "fizHatDatum": "2019-12-07"
+    },
+    {
+      "id": 983,
+      "vevo": "Tagopia",
+      "kibocsajto": "Myworks",
+      "nOsszeg": 8376,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 984,
+      "vevo": "Skyvu",
+      "kibocsajto": "Cogidoo",
+      "nOsszeg": 214203,
+      "fizHatDatum": "2019-09-17"
+    },
+    {
+      "id": 985,
+      "vevo": "Aimbo",
+      "kibocsajto": "Plajo",
+      "nOsszeg": 144665,
+      "fizHatDatum": "2020-03-22"
+    },
+    {
+      "id": 986,
+      "vevo": "Flipstorm",
+      "kibocsajto": "Centizu",
+      "nOsszeg": 240988,
+      "fizHatDatum": "2019-12-26"
+    },
+    {
+      "id": 987,
+      "vevo": "Yakijo",
+      "kibocsajto": "Quimm",
+      "nOsszeg": 179248,
+      "fizHatDatum": "2019-06-24"
+    },
+    {
+      "id": 988,
+      "vevo": "Oyope",
+      "kibocsajto": "Eimbee",
+      "nOsszeg": 229008,
+      "fizHatDatum": "2020-05-18"
+    },
+    {
+      "id": 989,
+      "vevo": "Reallinks",
+      "kibocsajto": "Vipe",
+      "nOsszeg": 48155,
+      "fizHatDatum": "2020-07-02"
+    },
+    {
+      "id": 990,
+      "vevo": "Feedmix",
+      "kibocsajto": "Skipfire",
+      "nOsszeg": 17924,
+      "fizHatDatum": "2020-01-19"
+    },
+    {
+      "id": 991,
+      "vevo": "Zoomzone",
+      "kibocsajto": "Skimia",
+      "nOsszeg": 82806,
+      "fizHatDatum": "2020-06-13"
+    },
+    {
+      "id": 992,
+      "vevo": "Twitterworks",
+      "kibocsajto": "Realcube",
+      "nOsszeg": 15353,
+      "fizHatDatum": "2019-10-25"
+    },
+    {
+      "id": 993,
+      "vevo": "Zooxo",
+      "kibocsajto": "Kwilith",
+      "nOsszeg": 226392,
+      "fizHatDatum": "2019-10-31"
+    },
+    {
+      "id": 994,
+      "vevo": "Kazu",
+      "kibocsajto": "Gigashots",
+      "nOsszeg": 6559,
+      "fizHatDatum": "2019-08-23"
+    },
+    {
+      "id": 995,
+      "vevo": "Einti",
+      "kibocsajto": "Linklinks",
+      "nOsszeg": 224966,
+      "fizHatDatum": "2020-05-01"
+    },
+    {
+      "id": 996,
+      "vevo": "Feedbug",
+      "kibocsajto": "Yoveo",
+      "nOsszeg": 100562,
+      "fizHatDatum": "2019-09-16"
+    },
+    {
+      "id": 997,
+      "vevo": "Skidoo",
+      "kibocsajto": "Zoozzy",
+      "nOsszeg": 86155,
+      "fizHatDatum": "2020-07-05"
+    },
+    {
+      "id": 998,
+      "vevo": "Trilia",
+      "kibocsajto": "Flashspan",
+      "nOsszeg": 230619,
+      "fizHatDatum": "2020-03-02"
+    },
+    {
+      "id": 999,
+      "vevo": "Rooxo",
+      "kibocsajto": "Eazzy",
+      "nOsszeg": 237697,
+      "fizHatDatum": "2020-03-01"
+    },
+    {
+      "id": 1000,
+      "vevo": "Riffpedia",
+      "kibocsajto": "Centidel",
+      "nOsszeg": 13084,
+      "fizHatDatum": "2019-10-03"
+    }
+  ]
+}

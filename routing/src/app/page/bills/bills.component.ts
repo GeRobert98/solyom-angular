@@ -1,14 +1,13 @@
 import { Component, OnInit } from '@angular/core';
-import { BillService } from './service/bill.service';
-import { Bill } from './model/bill';
-
+import { Bill } from 'src/app/model/bill';
+import { BillService } from 'src/app/service/bill.service';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss'],
+  selector: 'app-bills',
+  templateUrl: './bills.component.html',
+  styleUrls: ['./bills.component.scss']
 })
-export class AppComponent implements OnInit {
+export class BillsComponent implements OnInit {
   title = 'components';
   //list: Bill[] = this.billService.list;
   list: Bill[];
@@ -43,6 +42,9 @@ export class AppComponent implements OnInit {
   }
 
   onDelete(bill: any): void {
+    if (!confirm("Biztosan törli a számlát?")){
+      return;
+    }
     const index= this.list.indexOf(bill);
     this.billService.delete(bill.id).subscribe(
 //      response => console.log(response),
@@ -51,5 +53,6 @@ export class AppComponent implements OnInit {
       err => alert(err.message)
     )
   }
+  }
 
-}
+

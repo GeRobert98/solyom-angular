@@ -1,8 +1,15 @@
-<div class="container">
-  <div class="row">
+<div class="row">
     <div class="col">
       <h1>Számlázás</h1>
     </div>
+  </div>
+
+  <div class="row">
+      <div class="col-12">
+          <button  routerLink="/bill/create" class=" btn btn-success btn-block mb-3">
+            Új számla rögzítése
+          </button>
+      </div>
   </div>
 
   <div class="row">
@@ -43,7 +50,7 @@
             <td class="td">
               <i class= "fa fa-dollar"></i> 
             </td>
-            <td class="td">{{ bill.szlaszam }}</td>
+            <td class="td">{{ bill.id }}</td>
             <td class="td">{{ bill.vevo }}</td>
             <td class="td">{{ bill.kibocsajto }}</td>
             <td class="td">{{ bill.nOsszeg }}</td>
@@ -51,9 +58,9 @@
             <td class="td">{{ bill.fizHatDatum | date : 'yyyy.MM.dd. HH:mm:ss' }}</td>
             <td class="td"> 
               <div class="btn-group">
-                <button class="btn btn-info">
-                  <i class="fa fa-refresh"></i>
-                </button>
+                <a [routerLink]="'/bill/'+ bill.id" class="btn btn-info">
+                    <i class="fa fa-pencil" aria-hidden="true"></i>
+                </a>  
                 <button (click)="onDelete(bill)" class="btn btn-danger">
                   <i class="fa fa-trash"></i>
                 </button>
@@ -64,5 +71,3 @@
       </table>
     </div>
   </div>
-
-</div>
