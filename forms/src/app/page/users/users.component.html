@@ -1,0 +1,22 @@
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th *ngFor="let col of cols">
+          {{ col.title }}
+        </th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of list$ | async">
+        <td *ngFor="let col of cols">
+          {{ user[col.key] }}
+        </td>
+        <td>
+            <button [routerLink]="'/user/'+user.id" class="btn btn-info">
+                <i class="fa fa-pencil"></i>
+            </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>

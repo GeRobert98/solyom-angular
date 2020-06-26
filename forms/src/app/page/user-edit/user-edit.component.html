@@ -1,0 +1,39 @@
+<div *ngIf="(user$ | async) as user" class="row">
+    <div class="col-12 col-md-6 offset-md-3">
+        <form [formGroup]= "formGroup" >
+            <div class="form-group">
+                <label for="">Vezetéknév</label>
+                <input formControlName= "last_name" type="text" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="">Keresztnév</label>
+                <input formControlName= "first_name" type="text" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="">Email</label>
+                <input formControlName= "email" type="text" class="form-control">
+
+                <!-- <div [disabled]="formGroup.controls.email.pending" [hidden]="!formGroup.controls.email.errors" class= "error-message"> -->
+                <div [hidden]="!formGroup.controls.email.errors" class= "error-message">
+                    {{ formGroup.controls.email.errors?.message || 'A cím nem megfelelő.'}}
+                </div>
+
+            </div>
+            <div class="form-group">
+                <label for="">Cég</label>
+                <input formControlName= "company" type="text" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="">Cím</label>
+                <input formControlName= "address" type="text" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="">Telefon</label>
+                <input formControlName= "phone" type="text" class="form-control">
+            </div>
+            <button [disabled]="formGroup.invalid" type= "submit" class="btn btn-primary btn-block">
+                Mentés
+            </button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,73 @@
+<div class="row">
+    <div class="col">
+      <h1>Számlázás</h1>
+    </div>
+  </div>
+
+  <div class="row">
+      <div class="col-12">
+          <button  routerLink="/bill/create" class=" btn btn-success btn-block mb-3">
+            Új számla rögzítése
+          </button>
+      </div>
+  </div>
+
+  <div class="row">
+    <div class="col-6"></div>
+    <div class="col-4">
+      <select *ngIf="list" [(ngModel)]="searchKey" name="search" id="" class="form-control">
+        <option value="">Összes</option>    
+        <option *ngFor="let key of getObjectKeys(list[0])" [value]="key">
+          {{ key | titlecase }}
+
+        </option>    
+        
+      </select>
+    </div>
+    <div class="col-2"><input [(ngModel)]= "phrase" type="text" class= "form-control mb-2" placeholder="Keresés"></div>
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th></th>
+            <th>#</th>
+            <th>Vevő</th>
+            <th>Kibocsájtó</th>
+            <th>Összeg</th>
+            <th>Bruttó</th>
+            <th>Fizhat</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr 
+            *ngFor="let bill of list | filter:phrase:searchKey" 
+            [ngClass]="setRowClasses(bill)"
+            >
+            <td class="td">
+              <i class= "fa fa-dollar"></i> 
+            </td>
+            <td class="td">{{ bill.id }}</td>
+            <td class="td">{{ bill.vevo }}</td>
+            <td class="td">{{ bill.kibocsajto }}</td>
+            <td class="td">{{ bill.nOsszeg }}</td>
+            <td class="td">{{ bill.nOsszeg | brutto }}</td>
+            <td class="td">{{ bill.fizHatDatum | date : 'yyyy.MM.dd. HH:mm:ss' }}</td>
+            <td class="td"> 
+              <div class="btn-group">
+                <a [routerLink]="'/bill/'+ bill.id" class="btn btn-info">
+                    <i class="fa fa-pencil" aria-hidden="true"></i>
+                </a>  
+                <button (click)="onDelete(bill)" class="btn btn-danger">
+                  <i class="fa fa-trash"></i>
+                </button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

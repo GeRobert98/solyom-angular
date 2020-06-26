@@ -1,0 +1,11 @@
+{
+  "bills": 
+[
+    {
+      "id": 5,
+      "vevo": "Jabberbean 111",
+      "kibocsajto": "Realblab",
+      "nOsszeg": null,
+      "fizHatDatum": "2020-06-07"
+    }
+]

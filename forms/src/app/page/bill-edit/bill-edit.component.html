@@ -1,0 +1,48 @@
+<!-- { "id": 5, "vevo": "Jabberbean", "kibocsajto": "Realblab", "nOsszeg": 14532, "fizHatDatum": "2020-06-07" } -->
+<div *ngIf= "(bill | async ) as bill" class="row">
+    <div class="col-12 col-md-6 offset-md-3">
+        <form #editForm="ngForm" (ngSubmit)="onUpdate(editForm)" >
+            <div class="form-group">
+                <label for="">
+                    Vevő
+                </label>
+                <input name="vevo" [(ngModel)]="bill.vevo" type="text" class="form-control"
+                    pattern='.{5,}' required>
+                <div class="error-message" [hidden]= "editForm.controls.vevo?.valid || editForm.controls.vevo?.untouched">
+                  Legalább 5 karakter hosszú legyen.
+                </div>
+                <label for="">
+                    Kibocsájtó
+                </label>
+                <input name="kibocsajto" [(ngModel)]="bill.kibocsajto" type="text" class="form-control"
+                    pattern='.{10,}' required>
+                <div class="error-message" [hidden]= "editForm.controls.kibocsajto?.valid || editForm.controls.kibocsajto?.untouched">
+                  Legalább 10 karakter hosszú legyen.
+                </div>
+
+                <label for="">
+                    Nettó összeg
+                </label>
+                <input name="nOsszeg" [(ngModel)]="bill.nOsszeg" type="number" class="form-control"
+                    min=5000 required>
+                <div class="error-message" [hidden]= "editForm.controls.nOsszeg?.valid || editForm.controls.nOsszeg?.untouched">
+                  Legalább 1 legyen.
+                </div>
+
+                <label for="">
+                    Fizetési határidő
+                </label>
+                <input name="fizHatDatum" [(ngModel)]="bill.fizHatDatum" type="date" class="form-control">
+
+                <div class="pull-right">
+                    <button [disabled]= "!editForm.valid" type="submit" class="btn btn-primary mt-5">
+                        Mentés
+                    </button>
+                    <button (click)="onCancel()" class="btn btn-secondary mt-5 ml-2">
+                        Mégsem
+                    </button>
+                    </div>
+            </div>
+        </form>
+    </div>
+</div>
